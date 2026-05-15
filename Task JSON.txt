@@ -1,0 +1,3134 @@
+[
+  {
+    "id": "1",
+    "name": "Butt Kicks",
+    "point_value": "1.75",
+    "description": ""
+  },
+  {
+    "id": "2",
+    "name": "Skips",
+    "point_value": "1.75",
+    "description": " <div class=\"youtube-player\" data-id=\"DZvI9iASTFI\" data-related=\"0\" data-control=\"0\" data-info=\"0\" data-fullscreen=\"0\" style=\"width:100%;display: block; position: relative;cursor: pointer;max-height:360px;height:100%; overflow:hidden;padding-bottom:56.25%;margin:0 auto\"> <img src=\"//i.ytimg.com/vi/DZvI9iASTFI/hqdefault.jpg\" style=\"bottom: -100%; display: block; left: 0; margin: auto; max-width: 100%; width: 100%;height:auto; position: absolute; right: 0; top: -100%;\"> <div style=\"height: 72px; width: 72px; left: 50%; top: 50%; margin-left: -36px; margin-top: -36px; position: absolute; background: url('http://i.imgur.com/TxzC70f.png') no-repeat;\"></div> </div> "
+  },
+  {
+    "id": "3",
+    "name": "Sprint",
+    "point_value": "1.50",
+    "description": "Run / Jog / Walk to 4 and back"
+  },
+  {
+    "id": "4",
+    "name": "Turkeys",
+    "point_value": "1.75",
+    "description": "In an upright position, run while alternating kicking feet straight out in front of body"
+  },
+  {
+    "id": "5",
+    "name": "High Knees",
+    "point_value": "1.75",
+    "description": "<a href=\"https://youtu.be/XhwFoupXfNY\" target=_self\">High Knees</a>"
+  },
+  {
+    "id": "8",
+    "name": "En Garde",
+    "point_value": "1.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=dHDDOdTCpj0\">EN GARDE</a>"
+  },
+  {
+    "id": "9",
+    "name": "Shuffle",
+    "point_value": "1.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=JE9XFzcfH2c\">SHUFFLE</a>"
+  },
+  {
+    "id": "10",
+    "name": "Hip Twists",
+    "point_value": "1.50",
+    "description": "Low Plank position, alternating between dropping left and right hips to the ground."
+  },
+  {
+    "id": "12",
+    "name": "High Xs",
+    "point_value": "1.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=0AwXOqk1mOw\">HIGH Xs</a>"
+  },
+  {
+    "id": "13",
+    "name": "Skates",
+    "point_value": "1.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=AuvZe8PgUqc\">SKATES</a>"
+  },
+  {
+    "id": "14",
+    "name": "Skuffle",
+    "point_value": "1.75",
+    "description": "<a href=\"https://youtu.be/DbFOMw_i7rw\">SKUFFLE</a>"
+  },
+  {
+    "id": "15",
+    "name": "Skiddish",
+    "point_value": "2.00",
+    "description": "<div class=\"youtube-player\" data-id=\"aNdG28wA4Pk\"></div>"
+  },
+  {
+    "id": "16",
+    "name": "Suicide (2-1-3-1-4-1)",
+    "point_value": "2.00",
+    "description": "Run"
+  },
+  {
+    "id": "17",
+    "name": "Ladder Run (2-1-3-2-4-3-4-3-4-2-3-1-2-1)",
+    "point_value": "2.25",
+    "description": "Run"
+  },
+  {
+    "id": "18",
+    "name": "Forward Ladder (2-1-3-2-4-3-4)",
+    "point_value": "2.00",
+    "description": "Run"
+  },
+  {
+    "id": "20",
+    "name": "Shuttle Run (3-2-4-2-3-1)",
+    "point_value": "2.00",
+    "description": "Run"
+  },
+  {
+    "id": "22",
+    "name": "Bonsai (3-1-4-2-4-1)",
+    "point_value": "2.00",
+    "description": "Run"
+  },
+  {
+    "id": "23",
+    "name": "Tarzan",
+    "point_value": "1.75",
+    "description": "Carry plate in any form."
+  },
+  {
+    "id": "24",
+    "name": "Gremlin",
+    "point_value": "1.75",
+    "description": "Stay low, walk forward.  FORM: knees bent, flat back, chest up."
+  },
+  {
+    "id": "25",
+    "name": "Peles",
+    "point_value": "2.00",
+    "description": ""
+  },
+  {
+    "id": "26",
+    "name": "Jumping Jacks (20) + Run",
+    "point_value": "2.25",
+    "description": "Stationary jump done from a standing position with legs together and arms at the sides to a position with the legs apart and the arms over the head."
+  },
+  {
+    "id": "28",
+    "name": "Kamikaze (1-4-3-4-2-4-1-4-1)",
+    "point_value": "2.25",
+    "description": "Run 4-3-4-2-4-1-4-1"
+  },
+  {
+    "id": "29",
+    "name": "Tippy-Tap",
+    "point_value": "2.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=mnFr_XuAqSA\">TIPPY-TAP</a>"
+  },
+  {
+    "id": "32",
+    "name": "Crook",
+    "point_value": "2.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=sJYjM7X3Ulc\">CROOK</a>"
+  },
+  {
+    "id": "34",
+    "name": "Rev Gremlin",
+    "point_value": "2.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=UBRZVc6FGyM\">REV GREMLIN</a>"
+  },
+  {
+    "id": "35",
+    "name": "W. Gremlin",
+    "point_value": "2.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=XuUss027lgE\">W. GREMLIN</a>"
+  },
+  {
+    "id": "36",
+    "name": "W. Crook ",
+    "point_value": "3.00",
+    "description": "Weight on back, low lateral movement, bringing feet apart and back together.  FORM: knees bent, chest up, back flat, foot to foot (no crossing over), chest square, SLOW movement, NO shuffling."
+  },
+  {
+    "id": "37",
+    "name": "Bully",
+    "point_value": "2.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=BfTlEa5OTEE\">BULLY</a>"
+  },
+  {
+    "id": "38",
+    "name": "Moguls (20) + Run",
+    "point_value": "2.50",
+    "description": "Hands positioned on the line, feet together and hopping side to side.  FORM: always picture hopping over a plate; feet stay together."
+  },
+  {
+    "id": "39",
+    "name": "Speed Skates (20) + Run",
+    "point_value": "2.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=lZ6O0x8vIHs\">SPEED SKATES</a>"
+  },
+  {
+    "id": "40",
+    "name": "Toes (20) + Run",
+    "point_value": "2.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=3vEV5Hf7afs\">TOES</a>"
+  },
+  {
+    "id": "41",
+    "name": "Mt. Climb (20) + Run",
+    "point_value": "2.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=OCkbHgxi8fM\">MT  CLIMB</a>"
+  },
+  {
+    "id": "43",
+    "name": "Quick Feet (20) + Run",
+    "point_value": "2.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=sc6C9_wJxS8\">QUICK FT.</a>"
+  },
+  {
+    "id": "44",
+    "name": "Two-Step (20) + Run",
+    "point_value": "2.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=G5yTCu09REk\">TWO-STEP</a>"
+  },
+  {
+    "id": "45",
+    "name": "Infinity (20) + Run",
+    "point_value": "2.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=8fJo8h0hreM\">INFINITY</a>"
+  },
+  {
+    "id": "46",
+    "name": "Squonq",
+    "point_value": "2.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=4eqCUeD2k8I\">SQUONQ</a>"
+  },
+  {
+    "id": "47",
+    "name": "V-Step (10) + Run",
+    "point_value": "2.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=qr0YnXTUnhU\">V-STEP</a>"
+  },
+  {
+    "id": "48",
+    "name": "Squat Jumps (10) + Run",
+    "point_value": "3.00",
+    "description": "Body erect, feet shoulder width apart, hands dangling in front of body, squat down with your weight on your heels touching the floor with your hands, then push up with your feet into a jumping motion."
+  },
+  {
+    "id": "49",
+    "name": "Wipers (20) + Run",
+    "point_value": "3.00",
+    "description": "Hooked to both sides. Hands on line - feet to line."
+  },
+  {
+    "id": "50",
+    "name": "Plate Shake 9+",
+    "point_value": "2.50",
+    "description": "Holding the plate in front of chest, press the plate out (3/4 of a full extention), continuously. At least 9 reps.  FORM: never rest the plate on body (stop if rest is needed), don't tilt the plate, keep core tight, body straight (not leaning back), press the plate straight out in front (not up)."
+  },
+  {
+    "id": "52",
+    "name": "Curl Walk 6+",
+    "point_value": "2.75",
+    "description": "Walking While Curling the plate.  At least 6 reps.  FORM: keep core tight, body straight (no leaning back), curl the plate up to face, elbows in, full ROM, plate turned down, use arms(not momentum)."
+  },
+  {
+    "id": "53",
+    "name": "Jiggy (20) + Run",
+    "point_value": "3.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=xZWVRgKg9p8\">JIGGY</a>"
+  },
+  {
+    "id": "54",
+    "name": "Bandit (20) + Run",
+    "point_value": "2.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=zw1GMxDhItA\">BANDIT</a>"
+  },
+  {
+    "id": "55",
+    "name": "Tarasq",
+    "point_value": "2.75",
+    "description": "This athletic movement was originally designed to mimic a baseball player fielding a baseball with his/her glove and having to a throwing position. The short description: Alternate your lower about roughly 180 degrees using a \"pop turn\" that's generated from your front leg. Always touch the turf on each jump. Use your front/leading hand to touch the turf and always touch in the inside step of your front foot. Detailed: Assumed a half-squat position  with your feet in a Squonq position (back foot parallel to line 1, front foot turned nearly 90 degrees open  towards the field.) Bend and the knees and hip to touch the turf on the inside step of the front foot. Jump forward using primarily the lead leg while simultaneously turning 180 degrees and landing in the same Squonq stance, but now with the opposite foot  open towards the field. Proceed to touch the turf with your other  hand this time and continue in this manner, alternating \"pop turns\" and touches until you reach the end zone. Watch for incorrect hinging JUST at the hips and zero bend at the knee, this will alleviate any back discomfort. As you learn the rhythm  you'll find that during the touch (with your hand) that your weight will be more on the back leg and as you jump and transition into the turn the weight is transferred into the front leg."
+  },
+  {
+    "id": "56",
+    "name": "Push Ups (10) + Run",
+    "point_value": "3.75",
+    "description": "Upper plank position, bring chest to the floor, moving entire body with it, Full ROM, core tight, head up, body flat."
+  },
+  {
+    "id": "57",
+    "name": "Paratroopers (10) + Run",
+    "point_value": "3.00",
+    "description": "<a href=\"https://youtu.be/frpGqGIUI4k\">PARATROOPER</a>"
+  },
+  {
+    "id": "58",
+    "name": "B. Lunge",
+    "point_value": "3.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=pUeAbs1HHvI\">B.  LUNGE</a>"
+  },
+  {
+    "id": "60",
+    "name": "Tucks (10) + Run",
+    "point_value": "3.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=6f2KamzAonQ\">TUCKS</a>"
+  },
+  {
+    "id": "62",
+    "name": "F. Lunge",
+    "point_value": "3.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=xw2jILCucck\">F.  LUNGE</a>"
+  },
+  {
+    "id": "63",
+    "name": "45 Degree Lunge",
+    "point_value": "4.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=fxgmcmilu58\">45 DEGREE</a>"
+  },
+  {
+    "id": "64",
+    "name": "3 Pt. Stance",
+    "point_value": "3.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=pi6mWqMCYLU\">3PT STANCE</a>"
+  },
+  {
+    "id": "65",
+    "name": "Leprechaun",
+    "point_value": "3.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=uilFhz06N-8\">LEPRECHAUN</a>"
+  },
+  {
+    "id": "66",
+    "name": "Bear Crawl",
+    "point_value": "3.50",
+    "description": "Crawling forward on all fours.  FORM: make sure an even trade of arms and legs in an alternating manner (no galloping), using upper body just as much as lower."
+  },
+  {
+    "id": "67",
+    "name": "The Rajt Way",
+    "point_value": "3.50",
+    "description": "Miel's Wheels but pulling the plate with your trailing leg. To 3 and back"
+  },
+  {
+    "id": "68",
+    "name": "Squat Thrust (10) + Run",
+    "point_value": "4.25",
+    "description": "Squat straight down bringing hands to the turf, then kick both feet back landing into a high plank position and immediately returning feet from which they came, last stand up so body is completely erect."
+  },
+  {
+    "id": "69",
+    "name": "Gargoyle",
+    "point_value": "3.50",
+    "description": "Single Leg Bear Crawl"
+  },
+  {
+    "id": "70",
+    "name": "Peg Leg (8) + Run",
+    "point_value": "4.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=pGUZRmQxemg\">PEG LEG</a>"
+  },
+  {
+    "id": "71",
+    "name": "Bulldog",
+    "point_value": "3.50",
+    "description": "Crawl, alternating between upper body and lower by hopping with hands landing together and feet landing together."
+  },
+  {
+    "id": "72",
+    "name": "Hikes",
+    "point_value": "2.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=10lyj9n2Yuw\">HIKES</a>"
+  },
+  {
+    "id": "74",
+    "name": "Ape Shoot!",
+    "point_value": "2.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=M9pDaC5rij8\">Ape Shoot</a>"
+  },
+  {
+    "id": "75",
+    "name": "Yeti",
+    "point_value": "3.75",
+    "description": "Alternating Monkey Crawl.  FORM:  keep body low, turn into crawl using arms (don't turn with legs first), don't stand up when turning."
+  },
+  {
+    "id": "76",
+    "name": "Frogs",
+    "point_value": "3.25",
+    "description": "<a href=\"https://youtu.be/yqdFGFAKbBg\">FROGS</a>"
+  },
+  {
+    "id": "77",
+    "name": "Potty Shots",
+    "point_value": "3.00",
+    "description": "Forward Hike.  FORM: body in a squat, hands behind plate. Throw the plate forward using a two handed bowling ball rolling-like technique. The follow through should be low. Do not come out of the throw moving upwards. Follow throughs utilizing a monkey or a slight bulldog movement are allowed, flops are not."
+  },
+  {
+    "id": "78",
+    "name": "Monkey Crawl",
+    "point_value": "3.25",
+    "description": "Sideways crawl, alternating hands and feet. Start in the squat/crouch position, place hands to your side in the direction you are intending to move, placing all of your body weight on you hands/arms perform a cart-wheel-like crawl sideways. FORM:  keep body square to one side (no mongooses). Always face the same direction, similar to a shuffle, to that way your lead foot/hand changes."
+  },
+  {
+    "id": "79",
+    "name": "Rotating Squat",
+    "point_value": "4.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=O2aIIBdNjQE\">ROTATING SQUAT</a>"
+  },
+  {
+    "id": "82",
+    "name": "Zombie",
+    "point_value": "3.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=_o_ihpTp2yY\">ZOMBIE</a>"
+  },
+  {
+    "id": "83",
+    "name": "Warrior Lunge",
+    "point_value": "4.25",
+    "description": "Start facing a wall, pivot back leg and take a forward step with front leg into a lunge, then return body to original position. Repeat."
+  },
+  {
+    "id": "84",
+    "name": "Plate Push",
+    "point_value": "3.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=-bbZdCsB0So\">PLATE PUSH</a>"
+  },
+  {
+    "id": "85",
+    "name": "Neapolitan",
+    "point_value": "3.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=cRCA21A-jQM\">Neapolitan</a>"
+  },
+  {
+    "id": "86",
+    "name": "HAG 1:1",
+    "point_value": "4.00",
+    "description": "Hold Plate straight above head, take one step forward then bring feet together and do a calf raise.  Repeat, alternating stepping leg."
+  },
+  {
+    "id": "87",
+    "name": "Mogul Madness",
+    "point_value": "3.75",
+    "description": "10 Moguls at each line."
+  },
+  {
+    "id": "88",
+    "name": "X Plate Push [XPP]",
+    "point_value": "3.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=bkMNZOb9qrI\">XPP</a>"
+  },
+  {
+    "id": "90",
+    "name": "W. Squat Jump (10) + Tzan",
+    "point_value": "4.00",
+    "description": "Squat Jump while holding plate in front of you but close to body. No plates on back."
+  },
+  {
+    "id": "92",
+    "name": "Mastodon",
+    "point_value": "4.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=haNza8r2Kps\">MASTODON</a>"
+  },
+  {
+    "id": "93",
+    "name": "Hurl and Twist",
+    "point_value": "4.75",
+    "description": "Start facing the  wall, then swing the plate in front of body causing body to rotate 180 degrees.  Repeat.  FORM: Arms extended out like a Bully, core tight, pivot on front foot."
+  },
+  {
+    "id": "94",
+    "name": "Ball N Chain",
+    "point_value": "4.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=SMW1iIiMMX4\">BNC</a>"
+  },
+  {
+    "id": "95",
+    "name": "W. Rotating Squat",
+    "point_value": "5.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=lN6ifg_hz3Q\">W.  ROTATING SQUAT</a>"
+  },
+  {
+    "id": "96",
+    "name": "Rev Bear Crawl",
+    "point_value": "4.00",
+    "description": "Crawling backwards on all fours. Each limb should move independently. Do not gallop, skate or wobble with your limbs."
+  },
+  {
+    "id": "97",
+    "name": "Dead Man (3)",
+    "point_value": "3.75",
+    "description": "Perform 3 Kitchen Sinks at each line with a Tarzan between each line. Refer to Kitchen sink for base task details."
+  },
+  {
+    "id": "98",
+    "name": "Croakin",
+    "point_value": "3.75",
+    "description": "Hop forward using both legs landing in a squat and touching the turf with hands.  Continuously hopping and touching the turf."
+  },
+  {
+    "id": "99",
+    "name": "Window Washers",
+    "point_value": "4.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=TzizIousamk\">WINDOW WASHER</a>"
+  },
+  {
+    "id": "100",
+    "name": "Mogul Push",
+    "point_value": "3.75",
+    "description": "Plate Push, hoping feet together and side to side."
+  },
+  {
+    "id": "101",
+    "name": "SA P.P.",
+    "point_value": "3.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=GSxzXtNnY2U\">SA PP</a>"
+  },
+  {
+    "id": "102",
+    "name": "Crooked Bully",
+    "point_value": "4.75",
+    "description": "Crook while holding a Bully with the plate.  FORM:  stay low!!, holding proper bully, keep core tight, back flat, chest up."
+  },
+  {
+    "id": "104",
+    "name": "W. Lunge",
+    "point_value": "5.25",
+    "description": "Forward Lunge with weight on back or held close to body in front of chest."
+  },
+  {
+    "id": "105",
+    "name": "Trifecta! 6+",
+    "point_value": "3.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=Mv3MIdVqazI\">TRIFECTA</a>"
+  },
+  {
+    "id": "106",
+    "name": "Rev Bulldog",
+    "point_value": "4.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=YkxfTRGPAgg\">REV BULLDOG</a>"
+  },
+  {
+    "id": "108",
+    "name": "Halo 2-1-3-1-4-1",
+    "point_value": "4.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=K5cV12NNKZY\">HALO</a>"
+  },
+  {
+    "id": "109",
+    "name": "Rev Gargoyle",
+    "point_value": "4.50",
+    "description": "Single Leg Reverse Bear Crawl."
+  },
+  {
+    "id": "111",
+    "name": "Rump Roast",
+    "point_value": "5.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=BA4w0EzP6Pk\">Rump Roast</a>"
+  },
+  {
+    "id": "112",
+    "name": "Resurrection",
+    "point_value": "5.50",
+    "description": "Standing feet shoulder width apart, crawl all the way out into a high plank, then proceed to hop both feet up to hands and stand straight up.  Repeat."
+  },
+  {
+    "id": "113",
+    "name": "Asphyxiation (opp SH)",
+    "point_value": "5.00",
+    "description": "Stranglehold throwing the plate with opposite hand (further one from the plate).  Like opening a sliding door."
+  },
+  {
+    "id": "114",
+    "name": "Boulder Push",
+    "point_value": "5.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=I4jqtUF3WYo\">BOULDER PUSH</a>"
+  },
+  {
+    "id": "116",
+    "name": "Devastator6",
+    "point_value": "6.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=ZNo7dcxzW4M\">DEVASTATOR</a>"
+  },
+  {
+    "id": "117",
+    "name": "Typhon",
+    "point_value": "3.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=N5UIoKYSvBk\">TYPHON</a>"
+  },
+  {
+    "id": "119",
+    "name": "Chupacabra",
+    "point_value": "5.50",
+    "description": "Boulder Push + Push Up.  Plate flipped upside down."
+  },
+  {
+    "id": "120",
+    "name": "Stranglehold",
+    "point_value": "5.00",
+    "description": "Window Washer and Toro combination.  Throwing plate underneath body with hand closest to plate."
+  },
+  {
+    "id": "121",
+    "name": "Gator to 3",
+    "point_value": "4.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=rAzt5_aYFLA\">Gator</a>"
+  },
+  {
+    "id": "122",
+    "name": "Gimpy Dog",
+    "point_value": "4.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=IxzVqppNTxE\">GIMPY DOG</a>"
+  },
+  {
+    "id": "123",
+    "name": "Inch Worm",
+    "point_value": "4.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=Y0-U9GscpXI\">INCH WORM</a>"
+  },
+  {
+    "id": "125",
+    "name": "Rev Gator",
+    "point_value": "5.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=Fai6JvARtPo\">REV GATOR</a>"
+  },
+  {
+    "id": "126",
+    "name": "Sling Shot 3-2-4-2-3-1",
+    "point_value": "4.50",
+    "description": "Plate push to 3, rev plate push to 2, plate push to 4.  On way back, plate push to 2, rev plate push to 3, plate push to 1."
+  },
+  {
+    "id": "127",
+    "name": "W. Warrior Lunge",
+    "point_value": "5.75",
+    "description": "Feet are parallel to line, pivot body 90 degrees while stepping into a lunge, back knee kisses the turf, bring back foot up to meet the front foot while pivoting body back 90 degrees. 1-4-1"
+  },
+  {
+    "id": "128",
+    "name": "SUPP 10",
+    "point_value": "4.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=voRq5pNokqM\">SUPP 10</a>"
+  },
+  {
+    "id": "129",
+    "name": "Crook Shake 1:1",
+    "point_value": "4.75",
+    "description": "Low and large lateral steps, keeping body low as well.  Almost crouching.  "
+  },
+  {
+    "id": "130",
+    "name": "Quicksand",
+    "point_value": "5.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=Vwjgdna9Ahk\">QUICKSAND</a>"
+  },
+  {
+    "id": "131",
+    "name": "Jackal",
+    "point_value": "4.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=Uj9RzlyW4uw\">JACKAL</a>"
+  },
+  {
+    "id": "132",
+    "name": "SL Resurrections",
+    "point_value": "6.00",
+    "description": "Squat down, place hands on the ground, jump back into a plank, crawl hands back to feet, stand up straight...all on one foot. Switch foot on way back."
+  },
+  {
+    "id": "133",
+    "name": "100 LB Push / Double Push",
+    "point_value": "5.50",
+    "description": ""
+  },
+  {
+    "id": "134",
+    "name": "HamStrung",
+    "point_value": "5.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=n2-_N44LZcU\">HAMSTRUNG</a>"
+  },
+  {
+    "id": "135",
+    "name": "Rev Ball N Chain",
+    "point_value": "5.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=JOukrxjHoWE\">REV BNC</a>"
+  },
+  {
+    "id": "136",
+    "name": "Toro",
+    "point_value": "5.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=VnLt9vHZ_X0\">TORO</a>"
+  },
+  {
+    "id": "137",
+    "name": "Bucks",
+    "point_value": "4.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=fmLD7PkgOZg\">BUCKS</a>"
+  },
+  {
+    "id": "138",
+    "name": "Shot Put",
+    "point_value": "5.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=6-P0ODInwY4\">SHOT PUT</a>"
+  },
+  {
+    "id": "139",
+    "name": "Anaconda",
+    "point_value": "5.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=FsbcnkJZsig\">ANACONDA</a>"
+  },
+  {
+    "id": "140",
+    "name": "Rev Plate Push",
+    "point_value": "5.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=R3CVjLummfc\">REV PLATE PUSH</a>"
+  },
+  {
+    "id": "141",
+    "name": "Revival",
+    "point_value": "5.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=N3eqRYqIk2E\">REVIVAL</a>"
+  },
+  {
+    "id": "142",
+    "name": "Obliterator",
+    "point_value": "5.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=ZVB-3QvCTqc\">OBLITERATOR</a>"
+  },
+  {
+    "id": "143",
+    "name": "Upheaval",
+    "point_value": "5.00",
+    "description": ""
+  },
+  {
+    "id": "144",
+    "name": "Diablo",
+    "point_value": "5.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=w-u-SPCsx5U\">DIABLO</a>"
+  },
+  {
+    "id": "145",
+    "name": "Potty Shot Hops",
+    "point_value": "5.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=DGhuOJ2OWBQ\">POTTY SHOT HOPS</a>"
+  },
+  {
+    "id": "146",
+    "name": "Jangle Leg",
+    "point_value": "5.75",
+    "description": "Boulder push...When in plank position lift one leg and pump 3X. Use one leg all the way down, the other on the way back."
+  },
+  {
+    "id": "147",
+    "name": "SL Revival",
+    "point_value": "6.00",
+    "description": "On one leg squat down, jump back into a plank, walk hands back toward foot and stand up straight."
+  },
+  {
+    "id": "148",
+    "name": "Thrust to Frog",
+    "point_value": "5.25",
+    "description": "One Squat Thrust, one Frog hop forward."
+  },
+  {
+    "id": "149",
+    "name": "Aurox",
+    "point_value": "6.25",
+    "description": "Hurl and Twist with a squat."
+  },
+  {
+    "id": "150",
+    "name": "SL Bucks",
+    "point_value": "5.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=8r42LT3TNQ8\">SL BUCKS</a>"
+  },
+  {
+    "id": "151",
+    "name": "Prowler ",
+    "point_value": "5.75",
+    "description": "PP/ Bear / Rev Bear Ladder"
+  },
+  {
+    "id": "152",
+    "name": "Potty to Bulldog",
+    "point_value": "4.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=OnvRTFW9C_k\">POTTY TO BULLDOG</a>"
+  },
+  {
+    "id": "153",
+    "name": "Jack Box",
+    "point_value": "5.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=ufoGq1QQMoU\">JACKBOX</a>"
+  },
+  {
+    "id": "154",
+    "name": "Mogul6 to Frog",
+    "point_value": "5.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=e92clvfvW7Y\">MOGUL6 TO FROG</a>"
+  },
+  {
+    "id": "155",
+    "name": "313",
+    "point_value": "5.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=wbXi74BOM6o\">313</a>"
+  },
+  {
+    "id": "156",
+    "name": "Inch Worm + Push Up",
+    "point_value": "6.00",
+    "description": "Crawl out, 1 Push Up, draw plated feet toward hands."
+  },
+  {
+    "id": "157",
+    "name": "SL Inch Worm",
+    "point_value": "6.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=G_POFX9RNac\">SL INCH</a>"
+  },
+  {
+    "id": "158",
+    "name": "Jack-Ass",
+    "point_value": "5.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=Xx-5OzmYhKQ\">Jack-Ass</a>"
+  },
+  {
+    "id": "159",
+    "name": "Walrus",
+    "point_value": "5.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=iPAKznqVX_Q\">WALRUS</a>"
+  },
+  {
+    "id": "160",
+    "name": "M.F.T.",
+    "point_value": "5.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=0Y_2DmvH8eM\">M.F.T.</a>"
+  },
+  {
+    "id": "161",
+    "name": "Rev Inch Worm",
+    "point_value": "5.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=LWHbmNyhxrw\">REV INCH</a>"
+  },
+  {
+    "id": "162",
+    "name": "Mr. Atlas to 3/back",
+    "point_value": "5.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=Ks5PaIu-spo\">MR. ATLAS</a>"
+  },
+  {
+    "id": "163",
+    "name": "Hack-It ",
+    "point_value": "5.75",
+    "description": "This is a Single Leg Diablo. Hands on the side of the plate, lift your entire body up, kick the standing leg back slightly and pull the plate back with you while sicking the landing foot. Continue on the same leg to 4, switch legs ONLY once you get to line 4, not sooner."
+  },
+  {
+    "id": "164",
+    "name": "Buzzard",
+    "point_value": "3.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=_ltjUvH8Is0\">Buzzard</a>"
+  },
+  {
+    "id": "166",
+    "name": "Rev Buzzard",
+    "point_value": "5.00",
+    "description": "Buzzard walking backward. Knee should touch turf. Posture should be upright "
+  },
+  {
+    "id": "167",
+    "name": "Twisted",
+    "point_value": "4.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=vhJJoJFIGLs\">TWISTED</a>"
+  },
+  {
+    "id": "168",
+    "name": "Hop Scotch",
+    "point_value": "2.75",
+    "description": "Standing upright hop across turf alternating feet apart and feet together."
+  },
+  {
+    "id": "169",
+    "name": "Tweaker",
+    "point_value": "5.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=irp9Kl3R_nk\">TWEAKER</a>"
+  },
+  {
+    "id": "170",
+    "name": "Row Stroll 6+",
+    "point_value": "2.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=5oJeZ6xZMpk\">ROW STROLL</a>"
+  },
+  {
+    "id": "171",
+    "name": "Calf-in-ator",
+    "point_value": "4.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=VxVX7jTa6iQ\">CALFINATOR</a>"
+  },
+  {
+    "id": "172",
+    "name": "Swaggin 1:1",
+    "point_value": "2.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=3tLqXZuXaPk\">SWAGGIN</a>"
+  },
+  {
+    "id": "173",
+    "name": "Kiss of Death (20) + Tzan",
+    "point_value": "3.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=U0_tXPZjFi4\">K O D</a>"
+  },
+  {
+    "id": "174",
+    "name": "Top Shelf (8) + Tzan",
+    "point_value": "5.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=-EuFm6DhtgI\">TOP SHELF</a>"
+  },
+  {
+    "id": "176",
+    "name": "Thrasher",
+    "point_value": "5.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=Vmo2QTPadDY\">THRASHER</a>"
+  },
+  {
+    "id": "177",
+    "name": "Greco Push",
+    "point_value": "5.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=-xs3iGhkIAc\">Greco</a>"
+  },
+  {
+    "id": "178",
+    "name": "Cyclone (12) + Tzan",
+    "point_value": "3.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=qlcPlrG0WLg\">CYCLONE</a>"
+  },
+  {
+    "id": "180",
+    "name": "Yikes!",
+    "point_value": "3.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=TwuHLeU6L10\">YIKES</a>"
+  },
+  {
+    "id": "181",
+    "name": "Ogre's Bridge (10) + Tzan",
+    "point_value": "3.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=ERvm5YSp6oc\">Ogre</a>"
+  },
+  {
+    "id": "183",
+    "name": "Double Push",
+    "point_value": "4.00",
+    "description": "Plate push using 2 plates"
+  },
+  {
+    "id": "184",
+    "name": "Curl Press 5+",
+    "point_value": "3.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=-G49u7DEp6I\">CURL PRESS</a>"
+  },
+  {
+    "id": "187",
+    "name": "Double Boulder",
+    "point_value": "6.00",
+    "description": "Boulder Push using 2 plates...one on each hand"
+  },
+  {
+    "id": "188",
+    "name": "Flying Monkey",
+    "point_value": "4.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=i35wJAhWBeQ\">FLYING MONKEY</a>"
+  },
+  {
+    "id": "189",
+    "name": "SL Toes (20) + Run",
+    "point_value": "2.75",
+    "description": "<a href=\"https://youtu.be/JE63CRQgnMo\">SL TOES</a>"
+  },
+  {
+    "id": "190",
+    "name": "Gorgon (8) + Run",
+    "point_value": "4.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=OfLYToPRp8w\">GORGON</a>"
+  },
+  {
+    "id": "191",
+    "name": "Wendigo",
+    "point_value": "6.25",
+    "description": "Push-up backwards jump. To 3, walk back"
+  },
+  {
+    "id": "194",
+    "name": "Drop Kicks",
+    "point_value": "5.00",
+    "description": ""
+  },
+  {
+    "id": "196",
+    "name": "Slalom",
+    "point_value": "4.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=VzDWk-3mteo\">SLALOM</a>"
+  },
+  {
+    "id": "197",
+    "name": "Ribbits (10) + Run",
+    "point_value": "3.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=o3Fv-nVKV2k\">RIBBITS</a>"
+  },
+  {
+    "id": "198",
+    "name": "Skulls (10) + TZN",
+    "point_value": "3.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=wEL53XYDTCA\">SKULLS</a>"
+  },
+  {
+    "id": "200",
+    "name": "Tall Order 6+",
+    "point_value": "3.00",
+    "description": "Walking single arm shoulder press.  Use other hand to guide the plate.  Looks like a waiter with a tray.  6+ one direction"
+  },
+  {
+    "id": "201",
+    "name": "SHALO 1:1",
+    "point_value": "5.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=w7-KKGovUW0\">SHALO 1:1</a>"
+  },
+  {
+    "id": "202",
+    "name": "Patty Cake (20) + run",
+    "point_value": "3.50",
+    "description": "Plank, stagger hands with one in front of the line and one behind the line.  Push off and switch hands.  Feet stay stationary."
+  },
+  {
+    "id": "203",
+    "name": "Gallow (2-1-4-3-4-1)",
+    "point_value": "2.00",
+    "description": "Run"
+  },
+  {
+    "id": "204",
+    "name": "Cobra (10) + Push",
+    "point_value": "4.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=ggjlYqJxDGs\">Cobra</a>"
+  },
+  {
+    "id": "205",
+    "name": "SUPPS Madness",
+    "point_value": "5.50",
+    "description": "5 sit-ups at each line with a plate push in between"
+  },
+  {
+    "id": "206",
+    "name": "HANG (10) + Run",
+    "point_value": "3.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=QnpxbZ1q7DI\">HANG10</a>"
+  },
+  {
+    "id": "207",
+    "name": "Take Off!",
+    "point_value": "3.50",
+    "description": "All out-max effort plate push to 3, bulldozer to 4. On the way back max effort push to 2, bulldozer to 1. Called Take Off to make the connection of a plane on a runway building speed and then taking flight."
+  },
+  {
+    "id": "208",
+    "name": "Venom",
+    "point_value": "4.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=6mvCkXBFulo\">VENOM</a>"
+  },
+  {
+    "id": "209",
+    "name": "Triptych ",
+    "point_value": "4.75",
+    "description": "Bear to 2, Mastodon to 3, Gargoyle to 4...same order on the way back."
+  },
+  {
+    "id": "210",
+    "name": "Triad",
+    "point_value": "5.50",
+    "description": "Boulder to 2,  Greco to 3,  SL Boulder to 4...same order on the way back."
+  },
+  {
+    "id": "211",
+    "name": "Troika",
+    "point_value": "5.25",
+    "description": "Rev PP to 2,  Jackass to 3,  MFT to 4...same order on the way back."
+  },
+  {
+    "id": "212",
+    "name": "SL Boulder",
+    "point_value": "5.50",
+    "description": "One legged boulder push...same leg all the way to 4...opposite leg on the way back."
+  },
+  {
+    "id": "213",
+    "name": "Offering",
+    "point_value": "3.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=_eJn5gqskXo\">OFFERING</a>"
+  },
+  {
+    "id": "214",
+    "name": "Trombone 6+",
+    "point_value": "3.00",
+    "description": "(Formerly Plate Shake) Walking plate shake where plate is fully extended and elbows are straight 6+"
+  },
+  {
+    "id": "215",
+    "name": "Twinkle Toes (30) + Tzan",
+    "point_value": "3.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=DSYj7ovTstM\">TWINKLE TOES</a>"
+  },
+  {
+    "id": "217",
+    "name": "SL Gorgon (8) + Run",
+    "point_value": "5.00",
+    "description": "See Gorgon for base description. On one leg squat down, crawl out into a plank. Crawl back to a squatted position, stand fully upright. FORM: Stay on one leg the entire time, no resting."
+  },
+  {
+    "id": "218",
+    "name": "Nemesis to 3/Back",
+    "point_value": "6.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=N6YpaJc0jHo\">NEMESIS</a>"
+  },
+  {
+    "id": "219",
+    "name": "Stork (12) + Tzan",
+    "point_value": "3.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=9klQttF9fYw\">STORK</a>"
+  },
+  {
+    "id": "220",
+    "name": "U. Potty Shots",
+    "point_value": "3.50",
+    "description": "Flip plate upside down. Potty shots."
+  },
+  {
+    "id": "221",
+    "name": "Stack Shot",
+    "point_value": "4.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=SmVHmDs0cwE\">STACK SHOT</a>"
+  },
+  {
+    "id": "222",
+    "name": "Rampant (10) + Run",
+    "point_value": "2.75",
+    "description": "Like a stationary Bulldog. Hands planted on turf, jump feet to the outside of hands then back into a plank. FORM:  feet should come up as close to the hands as flexibility will allow and extend all the way back."
+  },
+  {
+    "id": "225",
+    "name": "Tiger Roll",
+    "point_value": "5.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=29ZPNGmhvw8\">TIGER ROLL</a>"
+  },
+  {
+    "id": "226",
+    "name": "Diabolical",
+    "point_value": "5.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=rZPCErDyIDM\">DIABOLICAL</a>"
+  },
+  {
+    "id": "227",
+    "name": "Johnny Appleseed",
+    "point_value": "5.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=w0AqTLfbctw\">Johnny Appleseed</a>"
+  },
+  {
+    "id": "228",
+    "name": "Jester",
+    "point_value": "5.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=C5J8ShOFv14\">JESTER</a>"
+  },
+  {
+    "id": "229",
+    "name": "Arachnid",
+    "point_value": "4.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=Pe6InBbHjxE\">ARACHNID</a>"
+  },
+  {
+    "id": "230",
+    "name": "Rev Mastodon",
+    "point_value": "5.00",
+    "description": "Bear crawl hands and mogul feet crawling backwards."
+  },
+  {
+    "id": "231",
+    "name": "SCURL 1:1",
+    "point_value": "5.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=CpUVxRrF20w\">SCURL</a>"
+  },
+  {
+    "id": "232",
+    "name": "JigSaw",
+    "point_value": "4.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=mpOBiBlSVHU\">Jigsaw</a>"
+  },
+  {
+    "id": "233",
+    "name": "Ozark",
+    "point_value": "5.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=-dSWGTPcS6w\">Ozark</a>"
+  },
+  {
+    "id": "234",
+    "name": "SA Diablo",
+    "point_value": "5.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=pPvejZY5yPg\">SA DIABLO</a>"
+  },
+  {
+    "id": "235",
+    "name": "Benched (30) + Tzan",
+    "point_value": "4.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=M90p6ZvuDLQ\">BENCHED</a>"
+  },
+  {
+    "id": "236",
+    "name": "Hooked (10) + Run",
+    "point_value": "3.00",
+    "description": "Plank position, jump both feet up to the outside of one hand while keeping legs straight, jump both feet back to plank position.  "
+  },
+  {
+    "id": "237",
+    "name": "Crazy Legs",
+    "point_value": "4.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=jjfEnrXWq_A\">Crazy Legs</a>"
+  },
+  {
+    "id": "238",
+    "name": "Bovine",
+    "point_value": "3.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=VfH9eVL6Aas\">BOVINE</a>"
+  },
+  {
+    "id": "239",
+    "name": "Rev Bovine",
+    "point_value": "4.25",
+    "description": "Rev single leg bull dog"
+  },
+  {
+    "id": "241",
+    "name": "Jounce 2-1-3-1-4-1",
+    "point_value": "5.25",
+    "description": "2-1-3-1-4-1 (frog, rev grem, typhon, rev grem, croakin, rev grem)"
+  },
+  {
+    "id": "242",
+    "name": "Gargantuan",
+    "point_value": "4.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=bTrvmxSkfNw\">GARGANTUAN</a>"
+  },
+  {
+    "id": "243",
+    "name": "Python",
+    "point_value": "5.25",
+    "description": "(Inch and Boulder)"
+  },
+  {
+    "id": "246",
+    "name": "YAK",
+    "point_value": "3.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=OSXxo7UnNf4\">YAK</a>"
+  },
+  {
+    "id": "247",
+    "name": "Jiggy Madness",
+    "point_value": "4.75",
+    "description": "10 at each"
+  },
+  {
+    "id": "248",
+    "name": "Swashbuckler",
+    "point_value": "4.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=WTpR7roRC8U\">SWASHBUCKLER</a>"
+  },
+  {
+    "id": "249",
+    "name": "Jabberwocky",
+    "point_value": "5.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=JNQd2ny5PLg\">JABBERWOCKY</a>"
+  },
+  {
+    "id": "250",
+    "name": "Gryphon (8) + Push",
+    "point_value": "4.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=iOrEvBV7KTw\">GRYPHON</a>"
+  },
+  {
+    "id": "251",
+    "name": "CUJO",
+    "point_value": "5.75",
+    "description": "Bulldozer with Bulldogs. Ladder Pattern."
+  },
+  {
+    "id": "252",
+    "name": "Sawed Off (10) + Tzan",
+    "point_value": "3.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=74ggs__oWYs\">SAWED OFF</a>"
+  },
+  {
+    "id": "253",
+    "name": "B.O.R. (15) + TZan",
+    "point_value": "3.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=XZ35xg1Hozw\">BOR</a>"
+  },
+  {
+    "id": "254",
+    "name": "Johnsvine",
+    "point_value": "2.00",
+    "description": "Sideways stampede-Grapevine"
+  },
+  {
+    "id": "255",
+    "name": "Tyson",
+    "point_value": "2.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=Hj1sfIrm3Fg\">TYSON</a>"
+  },
+  {
+    "id": "256",
+    "name": "Mantis (8) + Run",
+    "point_value": "3.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=8JjKk2WahfU\">MANTIS</a>"
+  },
+  {
+    "id": "257",
+    "name": "QuadZilla",
+    "point_value": "6.00",
+    "description": "Single Leg Boulder to 2. Hack-it to 1. Gimpy Dog to 3. Hack-it to 2. Single Leg Boulder to 3. Turn Around. Single Leg Boulder to 2. Hack-it to 3. Gimpy Dog to 1. Hack-it to 2. Single Leg Boulder to 1."
+  },
+  {
+    "id": "258",
+    "name": "STROW 1:1",
+    "point_value": "5.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=pQvpzA1xDy4\">STROW</a>"
+  },
+  {
+    "id": "259",
+    "name": "Lycan (10) + Run",
+    "point_value": "3.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=kWa8LFAD1Dg\">LYCAN</a>"
+  },
+  {
+    "id": "260",
+    "name": "Alt. Squonq",
+    "point_value": "2.25",
+    "description": "Low shuffle. Alternate directions FORM: chest and front foot positioned forward, knees bent, chest up, back flat, stay low. "
+  },
+  {
+    "id": "261",
+    "name": "DeLaura",
+    "point_value": "4.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=XQn5UtFziVw\">Delaura</a>"
+  },
+  {
+    "id": "262",
+    "name": "Primates 4-1-3-1-2-1",
+    "point_value": "3.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=ilImfvjwab4\">Primates</a>"
+  },
+  {
+    "id": "263",
+    "name": "Pinned 2-1-3-1-4-1",
+    "point_value": "4.00",
+    "description": "Hold plate high on chest. Pulling the plate through your chest. Tight Elbows. 213141"
+  },
+  {
+    "id": "264",
+    "name": "Hellion",
+    "point_value": "5.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=scuEov4vH-g\">HELLION</a>"
+  },
+  {
+    "id": "265",
+    "name": "Miel's Wheels",
+    "point_value": "3.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=WpkAH4OHAgc\">MIEL'S WHEELS</a>"
+  },
+  {
+    "id": "266",
+    "name": "Crooked Pin",
+    "point_value": "4.25",
+    "description": "Crook + Pinned"
+  },
+  {
+    "id": "267",
+    "name": "Rampage (12) + Run",
+    "point_value": "2.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=x1ojo9m5j3A\">RAMPAGE</a>"
+  },
+  {
+    "id": "268",
+    "name": "BullDozer",
+    "point_value": "3.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=UVxrvWG4Xyc\">BULLDOZER</a>"
+  },
+  {
+    "id": "269",
+    "name": "Scorpion to 3",
+    "point_value": "5.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=LxOuxOkzpF0\">SCORPION</a>"
+  },
+  {
+    "id": "270",
+    "name": "V-Step Madness",
+    "point_value": "3.75",
+    "description": "5 at each"
+  },
+  {
+    "id": "271",
+    "name": "Hang Madness",
+    "point_value": "5.25",
+    "description": "6 at each"
+  },
+  {
+    "id": "272",
+    "name": "Mt. Climb Madness",
+    "point_value": "3.75",
+    "description": "10 at each"
+  },
+  {
+    "id": "273",
+    "name": "Rampant Madness",
+    "point_value": "3.75",
+    "description": "5 at each"
+  },
+  {
+    "id": "274",
+    "name": "Two Step Madness",
+    "point_value": "3.75",
+    "description": "10 at each"
+  },
+  {
+    "id": "275",
+    "name": "Quick Ft Madness",
+    "point_value": "3.75",
+    "description": "10 at each"
+  },
+  {
+    "id": "276",
+    "name": "Jackalope",
+    "point_value": "3.75",
+    "description": "Monkey Crawl dragging or \"towing\" the plate with your trailing hand. See Slap Jack demo until video available."
+  },
+  {
+    "id": "277",
+    "name": "The Exorcise",
+    "point_value": "5.75",
+    "description": "mft + hack it"
+  },
+  {
+    "id": "278",
+    "name": "Amarok",
+    "point_value": "3.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=SOziAHfFwlo\">AMAROK</a>"
+  },
+  {
+    "id": "279",
+    "name": "Rev Scorpion to 3/back",
+    "point_value": "6.00",
+    "description": "One legged Plank. Perform Push-up. Crawl back to your foot and hop back into plank position."
+  },
+  {
+    "id": "280",
+    "name": "Trog",
+    "point_value": "2.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=MyyvNIYs2aY\">Trog</a>"
+  },
+  {
+    "id": "281",
+    "name": "Sliger",
+    "point_value": "4.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=oggnmXgytgA\">SLIGER</a>"
+  },
+  {
+    "id": "283",
+    "name": "RDL (8) + Tzan",
+    "point_value": "4.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=mJg2cBUve8g\">RDL</a>"
+  },
+  {
+    "id": "285",
+    "name": "SLOzark",
+    "point_value": "6.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=7QM03UqZRDo\">SL OZARK</a>"
+  },
+  {
+    "id": "286",
+    "name": "Rev Hydra",
+    "point_value": "4.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=zhfBNJQdJqI\">REV HYDRA</a>"
+  },
+  {
+    "id": "287",
+    "name": "Pogoto (6) + Tzn",
+    "point_value": "4.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=-roRJv-YVF4\">POGOTO</a>"
+  },
+  {
+    "id": "288",
+    "name": "Attack It",
+    "point_value": "5.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=IarZCq8637U\">ATTACK IT</a>"
+  },
+  {
+    "id": "289",
+    "name": "Squatch (6) + Tzan",
+    "point_value": "4.75",
+    "description": "Hike, Thrust, Thrash"
+  },
+  {
+    "id": "290",
+    "name": "Statarasq (16) + Run",
+    "point_value": "4.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=foDHSlg2gxA\">STATARASQ</a>"
+  },
+  {
+    "id": "291",
+    "name": "Curl Madness",
+    "point_value": "5.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=V7c9bmBMAZI\">CURL MADNESS</a>"
+  },
+  {
+    "id": "292",
+    "name": "Rev 313",
+    "point_value": "5.50",
+    "description": "Rev Inch | Rev BNC | MFT"
+  },
+  {
+    "id": "293",
+    "name": "Growler",
+    "point_value": "3.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=TmuitaHB3-0\">GROWLER</a>"
+  },
+  {
+    "id": "294",
+    "name": "Rev Growler",
+    "point_value": "4.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=VuLAXXaf-dQ\">REV GROWLER</a>"
+  },
+  {
+    "id": "295",
+    "name": "SquanTOES (20) + Run",
+    "point_value": "2.75",
+    "description": "Squantoes is what TOES should be. It is simply Toes with an emphasis on maximizing the height achieved with each jump. The power should originate from your calves and not your quads. Hands should be at one's side to indicate the difference between Toes and Squantoes."
+  },
+  {
+    "id": "296",
+    "name": "BOA",
+    "point_value": "5.25",
+    "description": "Anaconda to Boulder"
+  },
+  {
+    "id": "298",
+    "name": "The Burgundy",
+    "point_value": "5.75",
+    "description": "SA Hackett - W. Rev Bovine"
+  },
+  {
+    "id": "299",
+    "name": "Frozen Gremlin",
+    "point_value": "4.75",
+    "description": "Beginning at Line 1, 8 sec ISO squat at each line,  Gremlin to the next line.  Rev Gremlin  on the way back."
+  },
+  {
+    "id": "302",
+    "name": "Oblivion",
+    "point_value": "5.75",
+    "description": "Rev Obliterator"
+  },
+  {
+    "id": "303",
+    "name": "Snuff Box",
+    "point_value": "6.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=NdkgTM62a5I\">SNUFF BOX</a>"
+  },
+  {
+    "id": "304",
+    "name": "Piston (10) + Tzan",
+    "point_value": "3.50",
+    "description": "One armed Benched. Tight elbows. Use non-pressing hand to support weight but not push."
+  },
+  {
+    "id": "305",
+    "name": "Wide Piston (10) + Tzan",
+    "point_value": "4.00",
+    "description": "Piston but with wide elbows."
+  },
+  {
+    "id": "306",
+    "name": "Frozen Crook8",
+    "point_value": "4.50",
+    "description": "At each line, squat and hold for 8 seconds.   Crook to each line."
+  },
+  {
+    "id": "307",
+    "name": "Rev Yak",
+    "point_value": "4.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=aNdG28wA4Pk\">Rev Yak</a>"
+  },
+  {
+    "id": "308",
+    "name": "The Zookeeper",
+    "point_value": "5.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=WWj9ZQgn_ac\">ZOOKEEPER</a>"
+  },
+  {
+    "id": "309",
+    "name": "Mongoose",
+    "point_value": "3.25",
+    "description": "Galloping Bear, Squonq legs as base. You should always face the same way (as you would on a shuffle) so that your lead leg changes. This crawl looks like a \"sloppy\" Monkey Crawl and a blend between sideways and forward crawling."
+  },
+  {
+    "id": "310",
+    "name": "Rev Mongoose",
+    "point_value": "4.00",
+    "description": "Rev Galloping Bear"
+  },
+  {
+    "id": "311",
+    "name": "Explosions",
+    "point_value": "2.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=XAuJGr4LmH0\">EXPLOSIONS</a>"
+  },
+  {
+    "id": "312",
+    "name": "SL Ogre's (10) + TZan",
+    "point_value": "4.50",
+    "description": "Single Leg Ogre"
+  },
+  {
+    "id": "313",
+    "name": "S.A. Boulder",
+    "point_value": "5.50",
+    "description": "Hand over the middle of the plate. Slide into full plank. Pause. Step up to plate."
+  },
+  {
+    "id": "314",
+    "name": "Stampede",
+    "point_value": "1.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=A14wvQ4_KOk\">STAMPEDE</a>"
+  },
+  {
+    "id": "315",
+    "name": "Montauk",
+    "point_value": "3.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=E0sXY8P1E-w\">MONTAUK</a>"
+  },
+  {
+    "id": "316",
+    "name": "Statrog (10) + Run",
+    "point_value": "3.50",
+    "description": "Stationary Trog"
+  },
+  {
+    "id": "317",
+    "name": "Wizard",
+    "point_value": "4.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=U6OBT2OmYZ4\">WIZARD</a>"
+  },
+  {
+    "id": "319",
+    "name": "Rambo (10) + Run",
+    "point_value": "2.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=HjIVxXCfBVM\">RAMBO</a>"
+  },
+  {
+    "id": "320",
+    "name": "Half Blaked",
+    "point_value": "5.75",
+    "description": "Bulldozers/ Diablo Ladder"
+  },
+  {
+    "id": "321",
+    "name": "Minotaur",
+    "point_value": "6.00",
+    "description": "Mogul Push / Rev Mastodon / Mastodon Ladder"
+  },
+  {
+    "id": "322",
+    "name": "Frozen Lunge5",
+    "point_value": "4.75",
+    "description": "5 sec Isolated Lunge at each line. F Lunge to each line. on 1-4; B Lunge to each line from 4-1"
+  },
+  {
+    "id": "323",
+    "name": "Flamingo (6) + Tzan",
+    "point_value": "3.50",
+    "description": "SL CURL"
+  },
+  {
+    "id": "324",
+    "name": "Caduceus",
+    "point_value": "5.50",
+    "description": "Twisted Inch"
+  },
+  {
+    "id": "325",
+    "name": "Lieutenant Dan",
+    "point_value": "5.75",
+    "description": "Hamstrung Walrus"
+  },
+  {
+    "id": "326",
+    "name": "Buck Up",
+    "point_value": "5.00",
+    "description": "Bucks to push up"
+  },
+  {
+    "id": "329",
+    "name": "Enforcer Push",
+    "point_value": "3.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=rO6RBUqYFfo\">ENFORCER</a>"
+  },
+  {
+    "id": "330",
+    "name": "OPA! (8) + Tzan",
+    "point_value": "3.75",
+    "description": "V-sit with single arm press"
+  },
+  {
+    "id": "331",
+    "name": "Death Row 213141",
+    "point_value": "4.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=duxhGQALqrU\">DEATH ROW</a>"
+  },
+  {
+    "id": "332",
+    "name": "MaTTador",
+    "point_value": "5.75",
+    "description": "GImpy Dog/Bovine Ladder"
+  },
+  {
+    "id": "333",
+    "name": "SL Thrust to Frog",
+    "point_value": "5.75",
+    "description": "Peg Leg + Frog"
+  },
+  {
+    "id": "334",
+    "name": "W. Resurrection",
+    "point_value": "6.25",
+    "description": "Inch Worm with a full stand up between each rep"
+  },
+  {
+    "id": "335",
+    "name": "Anteater",
+    "point_value": "3.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=XlMliDx3BCE\">ANTEATER</a>"
+  },
+  {
+    "id": "336",
+    "name": "No Gimmies",
+    "point_value": "3.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=EXG1Vx1pvqc\">No Gimmies</a>"
+  },
+  {
+    "id": "337",
+    "name": "DRAGO to 3",
+    "point_value": "6.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=AbR4ZVpOfwc\">DRAGO</a>"
+  },
+  {
+    "id": "338",
+    "name": "Razor Push",
+    "point_value": "4.00",
+    "description": "Rampage Plate Push"
+  },
+  {
+    "id": "339",
+    "name": "KAA (10) + Push",
+    "point_value": "5.50",
+    "description": "Obliterator in the Endzone"
+  },
+  {
+    "id": "340",
+    "name": "Wicca",
+    "point_value": "5.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=aZap8WeLT9s\">WICCA</a>"
+  },
+  {
+    "id": "342",
+    "name": "Sluski",
+    "point_value": "4.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=UImBVdNYeAc\">SLUSKI</a>"
+  },
+  {
+    "id": "343",
+    "name": "Unleashed",
+    "point_value": "3.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=wEYdIzNg5jc\">UNLEASHED</a>"
+  },
+  {
+    "id": "344",
+    "name": "Run.",
+    "point_value": "1.00",
+    "description": ""
+  },
+  {
+    "id": "349",
+    "name": "Kitchen Sink (10) + Tzan",
+    "point_value": "4.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=iNZf2a13BXg\">KITCHEN SINK</a>"
+  },
+  {
+    "id": "352",
+    "name": "Mogul Mayhem4",
+    "point_value": "4.75",
+    "description": "At line 1, do 4 Moguls  with hands on plate. Mogul Push to the next line. and do 4 Moguls.  Continue, stopping at each line."
+  },
+  {
+    "id": "353",
+    "name": "Rampant Mayhem4",
+    "point_value": "5.00",
+    "description": "4 Rampant at each line with hands on plate. Bulldozer to the next line."
+  },
+  {
+    "id": "354",
+    "name": "Rampage Mayhem4",
+    "point_value": "5.00",
+    "description": "4 Rampage at each line with hands on plate. Razor to the next line."
+  },
+  {
+    "id": "356",
+    "name": "Bandit Mayhem",
+    "point_value": "4.75",
+    "description": "4 Bandits at line 1  with 1 hand on the plate.  S.A.P.P. to line 2. 4 Bandits at the next line.  Continue."
+  },
+  {
+    "id": "357",
+    "name": "Stat W. Lunge (8) + Tzan",
+    "point_value": "4.50",
+    "description": "Weight on back. Split squat position. Pulsing lunge; Same leg for all 8 reps. Switch at opposite endzone."
+  },
+  {
+    "id": "358",
+    "name": "Gimpy Mayhem4",
+    "point_value": "4.75",
+    "description": "4 Peg Legs at line 1 with hands on the plate.  Gimpy Dog to line 2.  4 Peg Legs at 2.  Gimpy Dog to 3.  Continue. "
+  },
+  {
+    "id": "359",
+    "name": "SL Mantis (8) + Run",
+    "point_value": "4.00",
+    "description": "Single Leg Mantis"
+  },
+  {
+    "id": "360",
+    "name": "O-Pinned 2-1-3-1-4-1",
+    "point_value": "4.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=jEO4Rw4RHHw\">O-PINNED</a>"
+  },
+  {
+    "id": "361",
+    "name": "BullFrog",
+    "point_value": "5.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=-LIdCMMOy3k\">BULLFROG</a>"
+  },
+  {
+    "id": "362",
+    "name": "Suck Ups (SL Buck Ups)",
+    "point_value": "5.50",
+    "description": "Single Leg Big Bucks with a Push up"
+  },
+  {
+    "id": "363",
+    "name": "Jigsaw6 Mayhem",
+    "point_value": "5.25",
+    "description": "6 Jiggy at  line 1 with hands on the plate. Jigsaw to line 2. 6 Jiggy.  Jigsaw to line 3.  Continue."
+  },
+  {
+    "id": "365",
+    "name": "Double Rev P Push",
+    "point_value": "5.25",
+    "description": "Rev PP with Two Plates"
+  },
+  {
+    "id": "368",
+    "name": "W. Revival",
+    "point_value": "6.25",
+    "description": "Reverse Inch with a complete stand up"
+  },
+  {
+    "id": "369",
+    "name": "Lycan Up (10) + Run",
+    "point_value": "4.50",
+    "description": "Lycan with a jump straight up"
+  },
+  {
+    "id": "370",
+    "name": "Chimp (8) + Run",
+    "point_value": "4.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=aFF1AidAf28\">CHIMP</a>"
+  },
+  {
+    "id": "371",
+    "name": "Bayok (6) + Run",
+    "point_value": "4.75",
+    "description": "<a href=\"https://youtu.be/EnSpSAVhHtM\" target=_self\">BAYOK</a>"
+  },
+  {
+    "id": "372",
+    "name": "SL Bayok (6) + Run",
+    "point_value": "5.50",
+    "description": "S.L. Resurrection + S.L. Revival at Endzone"
+  },
+  {
+    "id": "374",
+    "name": "Pouncer (10) + Run",
+    "point_value": "4.50",
+    "description": "<a href=\"https://youtu.be/QPlWlz_9yE8\">POUNCER</a>"
+  },
+  {
+    "id": "375",
+    "name": "Banshee",
+    "point_value": "4.00",
+    "description": "Crawl: Bear Hands + Skate Feet"
+  },
+  {
+    "id": "376",
+    "name": "Stat W. Squat (10) + Tzan",
+    "point_value": "4.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=fu3-GjANFgk\">STAT W. SQUAT</a>"
+  },
+  {
+    "id": "377",
+    "name": "BTown Bump (6) + Tzan",
+    "point_value": "4.25",
+    "description": "Kitchen Sink + Press"
+  },
+  {
+    "id": "379",
+    "name": "Conquistador",
+    "point_value": "6.00",
+    "description": "Thrasher/Toro Ladder"
+  },
+  {
+    "id": "380",
+    "name": "VooDoo",
+    "point_value": "6.25",
+    "description": "Warlock/Wicca Ladder"
+  },
+  {
+    "id": "381",
+    "name": "Warlock",
+    "point_value": "4.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=Bc2CfClP-A0\">WARLOCK</a>"
+  },
+  {
+    "id": "382",
+    "name": "Wide Benched (30) + tzan",
+    "point_value": "4.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=g4KQnsXaz_U\">WIDE BENCHED</a>"
+  },
+  {
+    "id": "383",
+    "name": "Grootslang",
+    "point_value": "6.25",
+    "description": "Inchworm but when fully extended go to forearms and Mantis. While still on forearms pull plate to chest"
+  },
+  {
+    "id": "384",
+    "name": "Frozen W. Crook8",
+    "point_value": "5.25",
+    "description": "Holding the weight,  at each line, squat and hold for 8 seconds. Crook to each line"
+  },
+  {
+    "id": "385",
+    "name": "Frozen Push Up 8",
+    "point_value": "4.75",
+    "description": ""
+  },
+  {
+    "id": "386",
+    "name": "Rev Pouncer (10) + Run",
+    "point_value": "4.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=RInE3SkDets\">RED POUNCER</a>"
+  },
+  {
+    "id": "387",
+    "name": "Shwaggin 1:1",
+    "point_value": "4.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=BN-rVNv15Ns\">SHWAGGIN</a>"
+  },
+  {
+    "id": "388",
+    "name": "Gryphon Madness3",
+    "point_value": "5.50",
+    "description": "Gryphon at each line"
+  },
+  {
+    "id": "389",
+    "name": "VIP (10) + Run",
+    "point_value": "2.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=PwToV-qES4w\">VIP</a>"
+  },
+  {
+    "id": "390",
+    "name": "Orca to 3/back",
+    "point_value": "6.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=5RR_8OF4TmI\">ORCA</a>"
+  },
+  {
+    "id": "391",
+    "name": "Stat. Curl (6) + Tzan",
+    "point_value": "2.75",
+    "description": "Curl at the Endzone"
+  },
+  {
+    "id": "392",
+    "name": "Vexum",
+    "point_value": "4.00",
+    "description": "Venom but when feet come together cross them"
+  },
+  {
+    "id": "393",
+    "name": "Row Madness3",
+    "point_value": "4.00",
+    "description": "3 Up Right Rows at each line; hold upright between lines"
+  },
+  {
+    "id": "394",
+    "name": "Jen-erator (10) + Tzan",
+    "point_value": "3.75",
+    "description": "Weighted Russian Twist with Press inbetween"
+  },
+  {
+    "id": "395",
+    "name": "Sinister (6) + Push",
+    "point_value": "5.50",
+    "description": "Stationary Mr. Atlas"
+  },
+  {
+    "id": "396",
+    "name": "Demonic (6) + TZan",
+    "point_value": "4.25",
+    "description": "<a href=\"https://youtu.be/7HCqoP9dBQc\">DEMONIC</a>    Stationary Devastator. Hold the plate in your hand and slightly in front of your body. Do not allow the plate to touch mid-section or lower body. Then, perform 6 weight stationary lunges (stay in the \"split squat stance, not an alternating lunge). On the 6th lunge, hold the deep ISO lunge position (back knee about 1\" off the turf) and perform 6 plate stationary plate shakes while in this lunged position. Perform with the opposite lead leg in far endzone."
+  },
+  {
+    "id": "400",
+    "name": "Malcolm in the Middle (MIM)",
+    "point_value": "5.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=VtlrfgvZbD8\">MIM</a>"
+  },
+  {
+    "id": "402",
+    "name": "Frozen Pipes (3/8)",
+    "point_value": "5.75",
+    "description": "Perform Three Kitchen Sinks at Each Line, and hold a static Squat (with the weight load near the turf like a Kitchen Sink) for eight seconds. Commute to and from each line while performing a SHwaggin. Note, this is different than the former description that mentioned Swaggin. With a SHwaggin, you will be able to face the clock at all times. To perform the movements: Kitchen Sink is technically a dead-lift (or a squat) where the weighted plate is held between your hands and you lower the weight to the ground be bending your knees, maintaining a tall posture and lowering your hips to a deep squat position. A deep squat position is achieve at about 90 degrees at your knees. Do not allow your heels to come up off the turf during a squat and try to keep your knees from breaking the imaginary plane extending vertically from your toes. Then, stand back up in the tall/starting position and squeeze your glutes (butt). Perform this movement 3 times, on the 3rd rep hold this deep squat for 8 seconds while maintaining a proper posture, this posture should be much like that of the touches on a correct Squat Jump, Ribbit, Croakin or Typhon. Upon completion of the 8 seconds, perform a SHwaggin to the next line by performing an oblique crunch to the opposite side of the hand holding the weight. This movement is performed by slightly leaning (called a Swag) with each step that you take to that side. For instance, when you're holding the plate in your right hand, you take a step to the left and lean to the left by crunching your obliques. Do not allow any portion of your arms to touch the side of your torso during the Shwaggin (this is not always possible for some body types so allow for some discrepancy based on the individual.) This task is called frozen pipes for two reasons, one, because it draws the connection to Kitchen Sink (pipes, get it?) and because by the end of it your arms (aka pipes) are equally cashed!"
+  },
+  {
+    "id": "403",
+    "name": "Vexed (10) + Run",
+    "point_value": "2.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=-B_JCBlUj_Y\">VEXED</a>"
+  },
+  {
+    "id": "404",
+    "name": "Stat Swag (20) + Tzan",
+    "point_value": "4.00",
+    "description": "Swaggin in the end zone"
+  },
+  {
+    "id": "405",
+    "name": "Rooted Groot (8) + Push",
+    "point_value": "6.00",
+    "description": "Stationary Grootslang in Endzone."
+  },
+  {
+    "id": "406",
+    "name": "P.O.D. (:10) + Tzan",
+    "point_value": "3.75",
+    "description": "K.O.D. position with a :10 pinned hold. Feet off ground."
+  },
+  {
+    "id": "407",
+    "name": "SL Rooted Groot (6) + Push",
+    "point_value": "6.25",
+    "description": "Single leg stationary grootslang"
+  },
+  {
+    "id": "408",
+    "name": "Flying Jackal",
+    "point_value": "5.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=2ATzCgYtd0c&feature=youtu.be\">FLYING JACKAL</a>"
+  },
+  {
+    "id": "409",
+    "name": "Stat Row (6) + Tzan",
+    "point_value": "2.75",
+    "description": "Up-right row in endzone"
+  },
+  {
+    "id": "411",
+    "name": "Ramp Up (8) + Run",
+    "point_value": "4.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=HTDRXepWaF4\">RAMP UP</a>"
+  },
+  {
+    "id": "413",
+    "name": "Stat Halo (18) + Tzan",
+    "point_value": "4.25",
+    "description": "Stationary Halo"
+  },
+  {
+    "id": "414",
+    "name": "Ali Shuffle (Ali) 22+",
+    "point_value": "3.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=wpw61gTrtgo\">ALI</a>"
+  },
+  {
+    "id": "415",
+    "name": "B. 45",
+    "point_value": "4.00",
+    "description": "Backwards 45 Degree Lunge. KTT"
+  },
+  {
+    "id": "416",
+    "name": "SL Push Up (10) + Run",
+    "point_value": "4.25",
+    "description": "Single Leg Push Up - Stationary."
+  },
+  {
+    "id": "417",
+    "name": "Stat Trifecta (6) + Tzan",
+    "point_value": "3.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=uL8XManwTy0\">STAT TRIFECTA</a>"
+  },
+  {
+    "id": "418",
+    "name": "Gorgon Push Up (8) + Run",
+    "point_value": "5.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=oJ_5QaJdsVw\">Gorgon + Push Up</a>"
+  },
+  {
+    "id": "419",
+    "name": "Viper",
+    "point_value": "3.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=Pdyu9MxnUXU\">VIPER</a>"
+  },
+  {
+    "id": "421",
+    "name": "Lumberjacks (8) + Run",
+    "point_value": "3.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=IsXTO7LPqEA\">LUMBER JACK</a>"
+  },
+  {
+    "id": "422",
+    "name": "Bunyan ",
+    "point_value": "4.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=1gLAWVOUgyA\">Bunyan</a>"
+  },
+  {
+    "id": "423",
+    "name": "B. Bunyan",
+    "point_value": "5.00",
+    "description": "This is a backward traveling Lumberjack - however there is no jump involved. Backward lunge, parallel squat, backward lunge with other foot. KTT"
+  },
+  {
+    "id": "424",
+    "name": "Pirate",
+    "point_value": "5.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=mMgoT_DfHZM\">PIRATE</a>"
+  },
+  {
+    "id": "425",
+    "name": "Rev Arachnid",
+    "point_value": "5.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=e36cXdacH1c\">REV ARACHNID</a>"
+  },
+  {
+    "id": "426",
+    "name": "W. Gorgon (8) + Tzan",
+    "point_value": "5.75",
+    "description": "Feet on the plate; squat down, crawl out with hands; bring knees to chest and back out like cobra; crawl back; stand up"
+  },
+  {
+    "id": "427",
+    "name": "W. SL Gorgon (8) + Tzan",
+    "point_value": "6.25",
+    "description": "1 foot on the plate; squat down, crawl out with hands; bring knees to chest and back out like cobra; crawl back; stand up"
+  },
+  {
+    "id": "428",
+    "name": "Talon (6) + Push",
+    "point_value": "5.00",
+    "description": "Stationary Anaconda + Catch and pull back with one hand, second hand off ground to release (like in 3pt Stance)."
+  },
+  {
+    "id": "429",
+    "name": "SLamstrung ",
+    "point_value": "6.25",
+    "description": "Single Leg Hamstrung"
+  },
+  {
+    "id": "430",
+    "name": "Rev. Zookeeper",
+    "point_value": "5.25",
+    "description": "Toro + Rev Crawls"
+  },
+  {
+    "id": "431",
+    "name": "W. Bunyan",
+    "point_value": "5.75",
+    "description": "Traveling Lumberjack while carrying the plate;. Forward lunge, parallel squat, forward with other foot. KTT"
+  },
+  {
+    "id": "432",
+    "name": "Mother Buzzard",
+    "point_value": "5.50",
+    "description": "Buzzard Meets Bunyan (Low pause on Squat position)"
+  },
+  {
+    "id": "433",
+    "name": "K-Step (20) + Run",
+    "point_value": "2.75",
+    "description": "High Xs over End-zone Line (Named after Kelli M) Helps people learn the correct form."
+  },
+  {
+    "id": "435",
+    "name": "Kobold",
+    "point_value": "2.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=ULrKfW0ffpQ\">Kobold</a>"
+  },
+  {
+    "id": "436",
+    "name": "Spikes",
+    "point_value": "3.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=3uVV8UJkpaU\">Spikes</a>"
+  },
+  {
+    "id": "437",
+    "name": "Mukwonago",
+    "point_value": "4.25",
+    "description": "Twisted Bear - Derived from Montauk."
+  },
+  {
+    "id": "439",
+    "name": "Lowly (10) + Run",
+    "point_value": "3.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=KtMbKX0LM98\">LOWLY</a>"
+  },
+  {
+    "id": "440",
+    "name": "Stat Tyson (20) + Run",
+    "point_value": "3.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=7WPraQBbswI\">STAT TYSON</a>"
+  },
+  {
+    "id": "441",
+    "name": "Primative",
+    "point_value": "6.00",
+    "description": "Primates Prowler. Ladder pattern. Any forward plate push. Always different push. Different reverse and forward crawls between each line. No repeats. No sideways crawls."
+  },
+  {
+    "id": "442",
+    "name": "Squibble",
+    "point_value": "2.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=7O3Hpub9fto\">SQUIBBLE</a>"
+  },
+  {
+    "id": "443",
+    "name": "Frozen Sawed Off",
+    "point_value": "4.75",
+    "description": "3 Sawed Off at Each Line + :05 Hold at Top. PIN between each line and DOUBLE the reps at line number 4 to hit both sides equally. FORM"
+  },
+  {
+    "id": "444",
+    "name": "90 Degree Piston (10) + Tzan",
+    "point_value": "4.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=s57SbRs1JSY\">90 DEGREE PISTON</a>"
+  },
+  {
+    "id": "445",
+    "name": "Junkie Jump (8) + Run",
+    "point_value": "3.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=LWRj3UhHtcQ\">JUNKIE JUMP</a>"
+  },
+  {
+    "id": "446",
+    "name": "DeViL",
+    "point_value": "5.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=iwot1-4nfu4\">DEVIL</a>"
+  },
+  {
+    "id": "447",
+    "name": "Chickin 2-1-3-1-4-1",
+    "point_value": "4.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=4PTumjlvDOE\">CHICKIN</a>"
+  },
+  {
+    "id": "448",
+    "name": "Crooked Chickin 1:1",
+    "point_value": "4.75",
+    "description": "Crook + Chickin.  1:1 on the \"flap\" and side step"
+  },
+  {
+    "id": "449",
+    "name": "Sue Step (20) + Run",
+    "point_value": "2.50",
+    "description": "Two-Step front to back. Suzanne Credit."
+  },
+  {
+    "id": "450",
+    "name": "Cray-Cray",
+    "point_value": "4.25",
+    "description": "<a href=\"https://youtu.be/3qSy50Zf76c\">CRAY-CRAY</a>"
+  },
+  {
+    "id": "451",
+    "name": "Stat. Chickin (18) + Tzn",
+    "point_value": "4.75",
+    "description": "Pin the plate against your chest. While applying constant pressure to the plate perform scapular retractions (squeezing shoulder blades together) by pulling outward on the plate in what looks like a \"flapping\" motion. For reference, see O-Pinned as Chickin is alternating between Pinned and O-Pinned."
+  },
+  {
+    "id": "452",
+    "name": "Rooster (10) + Tzn",
+    "point_value": "4.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=lBSLzErX0zE\">ROOSTER</a>"
+  },
+  {
+    "id": "453",
+    "name": "scarab to 3/back",
+    "point_value": "5.75",
+    "description": "W Scorpion. Stand up after each SL Inch."
+  },
+  {
+    "id": "454",
+    "name": "Twix",
+    "point_value": "2.75",
+    "description": "Twisted Frog"
+  },
+  {
+    "id": "455",
+    "name": "BOR Madness3",
+    "point_value": "4.00",
+    "description": "3 BOR at each line Pin in between"
+  },
+  {
+    "id": "456",
+    "name": "Kneeling Curl (6) + Tzn",
+    "point_value": "3.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=igzI2RZV68w\">KNEELING CURL</a>"
+  },
+  {
+    "id": "457",
+    "name": "Ravage",
+    "point_value": "5.75",
+    "description": "Rampage Wicca"
+  },
+  {
+    "id": "458",
+    "name": "Denser 2-1-3-1-4-1",
+    "point_value": "4.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=MsQAWo8Eu6w\">DENSER</a>"
+  },
+  {
+    "id": "459",
+    "name": "Vixen",
+    "point_value": "4.00",
+    "description": "Plate push similar to Vexum but there is NO even-up stance in-between. Feet are scissor-like and criss-cross while pushing. "
+  },
+  {
+    "id": "460",
+    "name": "Twine",
+    "point_value": "4.25",
+    "description": "See Bulldog for base decription. This task is a Bulldog but instead of your feet being in the wide-parallel stance, the are going to remain in the crossed position (aka Twisted feet). One your return from line 4 switch which foot is crossed)"
+  },
+  {
+    "id": "461",
+    "name": "Abduct. Push Up (8) + Run",
+    "point_value": "4.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=al62anx9pBM\">ABD PUSH UP</a>"
+  },
+  {
+    "id": "462",
+    "name": "Abduct. Mantis (8) + Run",
+    "point_value": "4.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=G96NqAQHuDY\">ABD MANTIS</a>"
+  },
+  {
+    "id": "463",
+    "name": "Hydra",
+    "point_value": "3.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=RUa3TJNnEvE\">HYDRA</a>"
+  },
+  {
+    "id": "465",
+    "name": "Hot Coals (10) + Run",
+    "point_value": "2.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=O313KNqqgY0\">HOT COALS</a>"
+  },
+  {
+    "id": "466",
+    "name": "Sky High 4-1",
+    "point_value": "2.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=gwQrC8b0dbA\">SKY HIGH</a>"
+  },
+  {
+    "id": "467",
+    "name": "Samurai",
+    "point_value": "4.75",
+    "description": "(Credit Jen D.) Warrior Lunge with a squat. Start with open up to lunge, pivot to a close stance squat position, this may be less of a step than you normally take on Warrior to advance down the field. Really watch form here; if the stance is too close people will compromise their knees. Watch for heels coming off the turf on the squat and extra \"cheater\" steps throughout the task."
+  },
+  {
+    "id": "468",
+    "name": "Sue-Step Madness",
+    "point_value": "3.75",
+    "description": "10 Sue Steps at each line"
+  },
+  {
+    "id": "469",
+    "name": "MuskRat",
+    "point_value": "3.50",
+    "description": "Alternating Mongoose. It is more like a blend between Yak and Yeti. Pronounce the Bear hands and staggered lower body (squonq-like stance) See Chuck's example."
+  },
+  {
+    "id": "471",
+    "name": "Bullsh!t",
+    "point_value": "5.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=oYqZ9oISyr0\">BullSh!t</a>"
+  },
+  {
+    "id": "472",
+    "name": "Untamed (413121)",
+    "point_value": "4.25",
+    "description": "Tarzan to 4, any carry back to one, tarzan to 3 different carry back to one, tarzan to 2 different carry back to one. (Carry examples: Curl Walk, Trombone, Plate Shakes, Row Strolls, Trifecta, Tall Order, Offering, Bully)  JEN D. - Note the change to include carries without REP counts"
+  },
+  {
+    "id": "473",
+    "name": "King Kong",
+    "point_value": "5.00",
+    "description": "Ladder Task: Jackalope to 2, Ape Shoot to 1, Jackalope to 3, Ape Shoot to 2, Jackalope to 4, Ape Shoot to 3, Jackalope to 4. Repeat pattern on the way back. Make sure to use different lead/dragging hands."
+  },
+  {
+    "id": "474",
+    "name": "Cyclops (6) + Tzan",
+    "point_value": "4.00",
+    "description": "Adjusted 5/24/2017 (MH): Half Cyclone then Curl. Half Cyclone to the other side and Curl. Count 6 total curls. Simple enough? "
+  },
+  {
+    "id": "475",
+    "name": "Crockpot (6) + Tzn",
+    "point_value": "4.75",
+    "description": "Kitchen Sink into a full Cyclone. Perform 6 reps, finishing on a full Cyclone. JEN D - Note the full Cyclone rather than a half."
+  },
+  {
+    "id": "476",
+    "name": "Curious George",
+    "point_value": "4.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=nGYzgjy3nTI\">CURIOUS GEORGE</a>"
+  },
+  {
+    "id": "477",
+    "name": "Brazen (6) + Run",
+    "point_value": "4.75",
+    "description": "Lowly, but alternate sides and perform a push-up when in the starting position. Start with a Lowly rep, End on your 6th push-up."
+  },
+  {
+    "id": "479",
+    "name": "Tip-Toes (20) + Run",
+    "point_value": "2.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=kzoN_X0t6CE\">TIP-TOES</a>"
+  },
+  {
+    "id": "480",
+    "name": "Coalition (10) + Tzan",
+    "point_value": "2.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=jddF0lxcVtI\">Coalition</a>"
+  },
+  {
+    "id": "481",
+    "name": "Petra",
+    "point_value": "4.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=V10nYy-I0Vs\">PETRA</a>"
+  },
+  {
+    "id": "482",
+    "name": "*Grapnel (6) + Push",
+    "point_value": "4.75",
+    "description": "{Temp/Inc Description} SL Talon. Foot on plate extended fully back, pull plate forward through hands (like SLUSKI), release, grab plate, and TORO back. Form: off foot on the line. "
+  },
+  {
+    "id": "483",
+    "name": "SA Greco",
+    "point_value": "5.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=iRALYOfZpCY\">SA GRECO</a>"
+  },
+  {
+    "id": "484",
+    "name": "*Cerb (5) + SAPP",
+    "point_value": "5.00",
+    "description": "{Temp/Inc Description} Form - off hand on line. plate set up on field past line, off hand on line; pull back on the plate as you MOGUL with feet in opposite direction; push plate forward as you mogul feet back to start (push/pull = 1 rep). Cerb short for Cerberus greek mythological creature."
+  },
+  {
+    "id": "485",
+    "name": "Slap Jack",
+    "point_value": "3.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=6NpXkoVicm8\">SLAP JACK</a>"
+  },
+  {
+    "id": "486",
+    "name": "Mugger (12) + Run",
+    "point_value": "2.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=6WL114A6RfA\">Mugger</a>"
+  },
+  {
+    "id": "488",
+    "name": "Stat Squat (10) + Run",
+    "point_value": "2.75",
+    "description": "Self explanatory. Rarely used in the rare cases to evaluate one's form on a squat or as a modification. Feet shoulder width or slightly wides. Form focus on weight distribution and posture. Butt back. Chest and chin up. Weight on heels, not toes. Squat at least 90 degrees."
+  },
+  {
+    "id": "489",
+    "name": "GBD (15) + Run",
+    "point_value": "3.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=whFxHXfhggQ\">GBD</a>"
+  },
+  {
+    "id": "490",
+    "name": "SL Gorgon Push Up (8) + Run",
+    "point_value": "5.25",
+    "description": ""
+  },
+  {
+    "id": "491",
+    "name": "Jagger (12) + Run",
+    "point_value": "3.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=NQta53Biz3k\">JAGGER</a>"
+  },
+  {
+    "id": "492",
+    "name": "Bridged Benched (30) + Tzan",
+    "point_value": "5.00",
+    "description": "<a href=\"https://youtu.be/d-xN-4t8mtU\">BRIDGED BENCHED</a>"
+  },
+  {
+    "id": "493",
+    "name": "SL Bridged Benched (15) + TZan",
+    "point_value": "5.00",
+    "description": "<a href=\"https://youtu.be/wIHSubVSyEA\">SL BRIDGED BENCHED</a>"
+  },
+  {
+    "id": "494",
+    "name": "Rahaim Step (10) + Run",
+    "point_value": "3.25",
+    "description": "Single leg rampant always to one side. With your hands on the line attempt to get one foot to the line on the OUTSIDE of your hands. Always stay on one side in the first end zone, switch in the far end zone. This came from Susie Rahaim performing a SL Boulder in this fashion. Pronounced RAM step works well being in the Rampant, Rambo, Rampage, Ramp Up family."
+  },
+  {
+    "id": "495",
+    "name": "Grifter (8) + SA PP",
+    "point_value": "5.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=LYVRiD1RbdY\">GRIFTER</a>"
+  },
+  {
+    "id": "496",
+    "name": "Hippie  (10) + Run",
+    "point_value": "3.25",
+    "description": "A suggestion by Leah L. (as Pikes) doing the V-Step task without bending the knees to focus on the core portion of the exercise; which is AKA a Pike traditionally. This task can be used to differentiate a Junkie's V-Step being incorrectly performed where the primary focus is originating from the hips, rather than ROM throughout both the knees, hips and upper body support."
+  },
+  {
+    "id": "497",
+    "name": "*Maxum",
+    "point_value": "4.00",
+    "description": "Twisted/Vexum Mogul Push *Do not use yet*"
+  },
+  {
+    "id": "498",
+    "name": "Debacle (6) + Tzan",
+    "point_value": "4.75",
+    "description": "Perfrom ONE Jackbox forward, then Diablo back to the line. Repeat. "
+  },
+  {
+    "id": "499",
+    "name": "Trumpet 9+",
+    "point_value": "2.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=ZVl2dBP8t_A\">TRUMPET</a>"
+  },
+  {
+    "id": "500",
+    "name": "O-B.O.R. (10) + Tzan",
+    "point_value": "3.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=QUxHaBvRJX4\">O-BOR</a>"
+  },
+  {
+    "id": "501",
+    "name": "Squatty Potty",
+    "point_value": "3.25",
+    "description": "Potty Shot, jump forward into a squat (Opposite of Yikes!)"
+  },
+  {
+    "id": "502",
+    "name": "DeCalf",
+    "point_value": "5.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=xdceHbEJJHA\">DECALF</a>"
+  },
+  {
+    "id": "504",
+    "name": "C.H.B.",
+    "point_value": "5.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=6bvVnbmu78Q\">CHB</a>"
+  },
+  {
+    "id": "505",
+    "name": "Rev Viper",
+    "point_value": "4.25",
+    "description": "Reverse Bulldog with V-Step Feet. Assume a reverse crawling position. Push yourself backwards using both of your hands at the same time. Land with your feet together. Push yourself back again with both hands and land with your feet wide. Repeat. Similar to other reverse crawls, a posture that is TOO long in a plank-like position will make this movement harder. Staying more compact is recommended."
+  },
+  {
+    "id": "506",
+    "name": "SAD Goose",
+    "point_value": "5.50",
+    "description": "Single Arm Diablo Mongoose {Temp Description}"
+  },
+  {
+    "id": "507",
+    "name": "Fuzzard",
+    "point_value": "4.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=zCsZ8yoxLyQ\">FUZZARD</a>"
+  },
+  {
+    "id": "508",
+    "name": "Suggester",
+    "point_value": "6.25",
+    "description": "SL Jester"
+  },
+  {
+    "id": "509",
+    "name": "Fangs (5) + Push",
+    "point_value": "4.50",
+    "description": "See Cobra for similar reference. This task is a stationary Inch Worm in each endzone, however unlike Cobra, you will be leaving the plate at various times during the movement referred to as a \"Drop Off\". Start with your hands on the line, body in a plank position and feet on the inner ridge of the plate as if you were about to do an Inch Worm. Leave the plate, do a rampant with your feet ending up on ridge of plate, Pull the plate upwards with your toes, core and hips so that your knees are under your chest or that the plate is almost to the line. Now, instead of driving backwards with the plate like a Cobra, you will leave the plate there, jump off and back at the same time to a regular plank position. Stick the landing with your toes, then return your feet to the plate (preferably on the back ridge) and thrust the plate backwards in a Rev Inch style movement. From there, repeat again. Each return to the beginning position counts as 1 rep."
+  },
+  {
+    "id": "510",
+    "name": "Cukoo (10) + Run",
+    "point_value": "3.25",
+    "description": "Stat Stampeded (Crazy Legs) {Temp Description}"
+  },
+  {
+    "id": "511",
+    "name": "Viscious",
+    "point_value": "5.50",
+    "description": "Venom + Viper Ladder {Temp Description}"
+  },
+  {
+    "id": "512",
+    "name": "Vitriol",
+    "point_value": "6.00",
+    "description": "Venom + Devil Ladder"
+  },
+  {
+    "id": "513",
+    "name": "Gregorian (8) + Run",
+    "point_value": "4.50",
+    "description": "Greco based Gorgon {Temp Description}"
+  },
+  {
+    "id": "514",
+    "name": "Abd. Flamingo (6) + TZN",
+    "point_value": "3.75",
+    "description": "Perform 6 stationary curls while standing on one foot. As you are curling the plate upwards, perform a hip abduction (move leg outward). Return to the flamingo base upon the lowering curl phase. Attempt to never drop the \"off\" foot to the turf."
+  },
+  {
+    "id": "515",
+    "name": "Oozie",
+    "point_value": "5.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=b8RR59vK_fc\">OOZIE</a>"
+  },
+  {
+    "id": "516",
+    "name": "Craise (20) + Tzn",
+    "point_value": "3.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=ObKkKUJUhVo\">CRAISE</a>"
+  },
+  {
+    "id": "517",
+    "name": "Villian",
+    "point_value": "5.25",
+    "description": "Temp - SA Devil (1 hand on turf, one on plate + v-step feet)"
+  },
+  {
+    "id": "518",
+    "name": "Burgan",
+    "point_value": "4.50",
+    "description": "Traveling Lycan/Sideways Yak. Named after Kelly Burgan attempting to do  CHB. (Temp)"
+  },
+  {
+    "id": "519",
+    "name": "Slacker",
+    "point_value": "4.00",
+    "description": "Yak/Sliger footwoork differential"
+  },
+  {
+    "id": "520",
+    "name": "BIGfoot",
+    "point_value": "3.25",
+    "description": "\"Notta-Yeti\""
+  },
+  {
+    "id": "521",
+    "name": "Pablo",
+    "point_value": "4.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=0QY1nOLMeXc\">PABLO</a>"
+  },
+  {
+    "id": "523",
+    "name": "YETI",
+    "point_value": "3.25",
+    "description": "Alternating Monkey Crawl. FORM: keep body low, turn into crawl using arms (don't turn with legs first), don't stand up when turning. [Site glitch, new task + value]"
+  },
+  {
+    "id": "524",
+    "name": "YETI!",
+    "point_value": "3.00",
+    "description": "<a href=\"https://youtu.be/a5vvvgX1ojE\" target=_self\">YETI</a>"
+  },
+  {
+    "id": "525",
+    "name": "Kneeling Swag (15) + Tzn",
+    "point_value": "4.00",
+    "description": "<a href=\"https://www.youtube.com/watch?v=MJxi63qQrGA\">KNEELING SWAG</a>"
+  },
+  {
+    "id": "527",
+    "name": "SL Bridge Skulls (10) + TZN",
+    "point_value": "4.00",
+    "description": ""
+  },
+  {
+    "id": "528",
+    "name": "Spidoto",
+    "point_value": "4.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=8wDuRxoPeD8\">SPIDOTO</a>"
+  },
+  {
+    "id": "529",
+    "name": "Mowgli (12) + Run",
+    "point_value": "2.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=Hcn1-YLjG5o\">MOWGLI</a>"
+  },
+  {
+    "id": "530",
+    "name": "Tauntaun",
+    "point_value": "1.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=L7m4_mOqdxA\">TAUNTAUN</a>"
+  },
+  {
+    "id": "531",
+    "name": "Sparrow",
+    "point_value": "5.50",
+    "description": "Swashbuckler/Pirate Ladder. Swashbuckler to 2, Pirate (rev swashbuckler) to 1, Swashbuckler to 3, Pirate to 2, Swashbuckler to 4, Pirate to 3, Swashbuckler to 4. Turn around and repeat with different lead leg."
+  },
+  {
+    "id": "532",
+    "name": "Super Trooper (10) + Run",
+    "point_value": "3.50",
+    "description": "Our traditional Paratrooper without alternating legs. Aim to leave the ground on your jump. Tall posture and back knee comes CLOSE to touching turf, but not quite. "
+  },
+  {
+    "id": "533",
+    "name": "Jawbreaker",
+    "point_value": "4.75",
+    "description": "Sideways Jabberywocky. Similiar to CHB but performing a Jiggy/Jagger whilst moving sideways won the field."
+  },
+  {
+    "id": "536",
+    "name": "SL Bridged Piston (10) + TZN",
+    "point_value": "4.25",
+    "description": "A piston (elbow close to torso) with a SL glute bridge. One foot on the turf. Hips raised. Keep knees, hips and shoulders on the same plane. Both knees should be at the same height. Switch legs in the far endzone."
+  },
+  {
+    "id": "537",
+    "name": "Moinster",
+    "point_value": "3.75",
+    "description": "Named after Eric Moin, a Mothership member, who did his Mastodon that was more similar to a bear-crawling Yak. Bear crawl with your upper body and mogul feet. For a brief moment, all limbs will be off the turf if performed correctly. "
+  },
+  {
+    "id": "539",
+    "name": "Millipede",
+    "point_value": "5.25",
+    "description": "Miel's Wheels and Shuffle Ladder Task. Miel's to 2, shuffle to 1 and back to plate. Half task is finished once both shuffles are performed between liknes 3 and 4. Face the same direction on the way back to change lead/pushing leg."
+  },
+  {
+    "id": "540",
+    "name": "Coal Mine 22+",
+    "point_value": "3.25",
+    "description": "Akin to Ali with Hot Coals motion instead. (Joe M. Credit) Step rep count TENTATIVELY 22/44+."
+  },
+  {
+    "id": "541",
+    "name": "Tutor",
+    "point_value": "3.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=2DfeMKRleN8\">TUTOR</a>"
+  },
+  {
+    "id": "542",
+    "name": "Scalawag",
+    "point_value": "3.25",
+    "description": "Like Rev Gremlin and Crook but with Squonq feet. Position the feet with a sqounq base, point the TRAILING toe towards the end zone that you're leaving, LEAD foot should be parallel to the turf-lines. Move backwards SLOWLY with your LEAD foot first, then follow behind with the TRAILING foot. Be sure to rotate to face the other direction at the far end zone so that you'll have the other leg pointing to endzone on the way back. This task was designed to get people to slow down on Squonq and understand the footwork. "
+  },
+  {
+    "id": "543",
+    "name": "Rev Cujo",
+    "point_value": "6.00",
+    "description": "Diablo and Bulldog Ladder. Diablo to 2, bulldog to 1, rev bulldog to plate at 2, diablo to 3...continue. Turn around at line 4."
+  },
+  {
+    "id": "544",
+    "name": "Millipede.",
+    "point_value": "4.75",
+    "description": "Miel's Wheel's Shuffle Ladder Task. Miel's to 2, shuffle to 1 and back to plate. Half task is finished once both shuffles are performed between liknes 3 and 4. Face the same direction on the way back to change lead/pushing leg."
+  },
+  {
+    "id": "545",
+    "name": "Abd. Jangle Leg",
+    "point_value": "5.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=rAYuA0uAzOQ\">ABD JANGLE LEG</a>"
+  },
+  {
+    "id": "546",
+    "name": "Abd. Jack-Ass",
+    "point_value": "5.50",
+    "description": "<a href=\"https://www.youtube.com/watch?v=uBMuTZSKR4c\">ABD JACK ASS</a>"
+  },
+  {
+    "id": "547",
+    "name": "Scalawag - Demo",
+    "point_value": "3.25",
+    "description": "<a href=\"https://www.youtube.com/watch?v=iXPJCQZT2_w\">SCALAWAG</a>"
+  },
+  {
+    "id": "548",
+    "name": "Dribble (10) + TZN",
+    "point_value": "4.00",
+    "description": "Temp Jack Pass Stat"
+  },
+  {
+    "id": "549",
+    "name": "Tithing 2-1-3-1-4-1",
+    "point_value": "4.50",
+    "description": "Offering done in a Suicide Pattern"
+  },
+  {
+    "id": "550",
+    "name": "Skips",
+    "point_value": "1.75",
+    "description": "Test"
+  },
+  {
+    "id": "551",
+    "name": "Skips",
+    "point_value": "1.75",
+    "description": "<a href=\"https://www.youtube.com/watch?v=DZvI9iASTFI\">SKIPS</a>"
+  },
+  {
+    "id": "552",
+    "name": "Cliff Hanger -- Up a Creek",
+    "point_value": "4.75",
+    "description": ""
+  },
+  {
+    "id": "553",
+    "name": "Taradactyl",
+    "point_value": "4.50",
+    "description": "<a href=\"https://youtu.be/3OaD2fdlCjo\">TARADACTYL</a>"
+  },
+  {
+    "id": "554",
+    "name": "SA Devil",
+    "point_value": "5.50",
+    "description": ""
+  },
+  {
+    "id": "555",
+    "name": "Stat Typhon (10) + Run",
+    "point_value": "3.25",
+    "description": "tba"
+  },
+  {
+    "id": "556",
+    "name": "SL Decalf",
+    "point_value": "5.25",
+    "description": "TBD"
+  },
+  {
+    "id": "557",
+    "name": "W. Squonq Squat [SQsQ]  (10) + TZN",
+    "point_value": "4.50",
+    "description": ""
+  },
+  {
+    "id": "558",
+    "name": "Vagrant",
+    "point_value": "4.25",
+    "description": "Temp - V-Step Delaura"
+  },
+  {
+    "id": "559",
+    "name": "Squadron",
+    "point_value": "4.50",
+    "description": ""
+  },
+  {
+    "id": "560",
+    "name": "Stigma (10) + Run",
+    "point_value": "3.75",
+    "description": "Hands on the line bring feet forward to a greco/petra stance position. Hands stay down."
+  },
+  {
+    "id": "561",
+    "name": "Stigmata (10) + Run",
+    "point_value": "3.25",
+    "description": "Stigma with a hand lift."
+  },
+  {
+    "id": "562",
+    "name": "Sabre (8) + Run",
+    "point_value": "3.75",
+    "description": ""
+  },
+  {
+    "id": "563",
+    "name": "Praise (10) + TZN",
+    "point_value": "3.50",
+    "description": ""
+  },
+  {
+    "id": "564",
+    "name": "EXplosions [Temporary/Covid pts]",
+    "point_value": "3.25",
+    "description": ""
+  },
+  {
+    "id": "565",
+    "name": "Fetch",
+    "point_value": "4.00",
+    "description": "Used in conjunction with Fetch circuit. See circuit/motherboard for explanation."
+  },
+  {
+    "id": "566",
+    "name": "Bobbi Shot",
+    "point_value": "3.25",
+    "description": "Brief Description: Forward 3 Pt. Stance akin to a standing Thrasher."
+  },
+  {
+    "id": "567",
+    "name": "SL Obliterator",
+    "point_value": "6.00",
+    "description": ""
+  },
+  {
+    "id": "568",
+    "name": "Marmaduke",
+    "point_value": "4.75",
+    "description": "BNC w/stampede feet. Form to come."
+  },
+  {
+    "id": "569",
+    "name": "Raging Bull",
+    "point_value": "5.25",
+    "description": "Start with a Boulder Push, then step up each foot individually like you normally would on a Boulder. When your feet get set at the top (when you're straddling the plate as if you were about to start another boulder) do a Rampant by kicking both feet back and forward returning to the Boulder starting position. Repeat. Boulder, step-up, step-up, rampant, boulder. Demo Per Tim K"
+  },
+  {
+    "id": "570",
+    "name": "Twizzy",
+    "point_value": "4.00",
+    "description": "A twisted plate push with one hand on the hole of the plate and one hand on the turf. Whichever hand you have on the hole of the plate, the leg on the same side will be the trailing leg. So, if your right hand is on the plate, cross your left leg in front of your right and push from there. Switch hands and leg cross on the way back."
+  },
+  {
+    "id": "571",
+    "name": "Halo March (20) + Tzn",
+    "point_value": "4.00",
+    "description": "Hold the plate above your head, like HAG and slowly march in place. Knees high, alternating. Make sure to not rush the march; it's not high knees for safety purposes. This is a core exercise. See Joe M. from SCS for demo. "
+  },
+  {
+    "id": "572",
+    "name": "Frogremlin 4(6) + Run",
+    "point_value": "3.50",
+    "description": "Akin to ribbits with a rev gremlin back to the starting position. Frog hop forward over the line, reverse gremlin 4 steps to the starting position. Repeat for 6 reps. See Joe M. from SCS for Demo. "
+  },
+  {
+    "id": "573",
+    "name": "Toucan (20) + tzn",
+    "point_value": "4.25",
+    "description": "Stork with both feet planted. Feet can stagger or be even up.  Full Trombone-extension. "
+  },
+  {
+    "id": "574",
+    "name": "Dead Bees (8/leg) + Tzn",
+    "point_value": "3.75",
+    "description": "Temporary placeholder. Detail TBD.  Demo Here: <a href=\"https://photos.app.goo.gl/kiVvXFSowRiSAWMa9\">Short Video</a>"
+  },
+  {
+    "id": "575",
+    "name": "Tarasq (UD)",
+    "point_value": "3.00",
+    "description": ""
+  },
+  {
+    "id": "576",
+    "name": "Jekyll (6) + TZN",
+    "point_value": "3.50",
+    "description": "Weighted Lycan Up"
+  },
+  {
+    "id": "577",
+    "name": "Ohno (12) + Run",
+    "point_value": "2.75",
+    "description": ""
+  },
+  {
+    "id": "578",
+    "name": "Petra Shot",
+    "point_value": "5.25",
+    "description": "Member suggested task we'll give a try. Shot Put, but instead of bear crawl, do Petra to get to the plate. Will circulate a video demo before first use. "
+  },
+  {
+    "id": "579",
+    "name": " Sue-Step (20) + Run *dont use",
+    "point_value": "0.75",
+    "description": ""
+  },
+  {
+    "id": "580",
+    "name": " Alt Squonq *dont use",
+    "point_value": "0.75",
+    "description": ""
+  },
+  {
+    "id": "581",
+    "name": "P. Shake *dont use",
+    "point_value": "0.50",
+    "description": ""
+  },
+  {
+    "id": "582",
+    "name": " Spd. Skates (20) + Run *dont use",
+    "point_value": "0.75",
+    "description": "*DO NOT USE*"
+  },
+  {
+    "id": "583",
+    "name": " Hike *dont use",
+    "point_value": "0.50",
+    "description": ""
+  },
+  {
+    "id": "584",
+    "name": " Hang10 + Run *dont use",
+    "point_value": "0.75",
+    "description": ""
+  },
+  {
+    "id": "585",
+    "name": " Kneel Curl (6) + Tarzan *dont use",
+    "point_value": "0.50",
+    "description": ""
+  },
+  {
+    "id": "586",
+    "name": " Moguli (12) + Run  *dont use",
+    "point_value": "0.50",
+    "description": ""
+  },
+  {
+    "id": "587",
+    "name": " Trog. *dont use",
+    "point_value": "0.50",
+    "description": ""
+  },
+  {
+    "id": "588",
+    "name": " Twocan (20) + tzn *dont use",
+    "point_value": "0.75",
+    "description": ""
+  },
+  {
+    "id": "589",
+    "name": " Gar goyle  *dont use",
+    "point_value": "0.50",
+    "description": ""
+  },
+  {
+    "id": "590",
+    "name": " Pottie Shot  *dont use",
+    "point_value": "0.75",
+    "description": ""
+  },
+  {
+    "id": "591",
+    "name": " Sq. Thrust (10) + Run *dont use",
+    "point_value": "0.75",
+    "description": ""
+  },
+  {
+    "id": "592",
+    "name": " Forward Lunge *dont use",
+    "point_value": "0.50",
+    "description": ""
+  },
+  {
+    "id": "593",
+    "name": "Blank Space",
+    "point_value": "1.75",
+    "description": ""
+  },
+  {
+    "id": "594",
+    "name": "THROWAWAY",
+    "point_value": "3.50",
+    "description": ""
+  },
+  {
+    "id": "595",
+    "name": "\"Blizzard\"",
+    "point_value": "4.75",
+    "description": "Nothing fancy, just do a plate push in a gallow pattern 2-1-4-3-4-1"
+  },
+  {
+    "id": "596",
+    "name": "Militello 4-1-2-1",
+    "point_value": "1.50",
+    "description": "A New Run."
+  },
+  {
+    "id": "597",
+    "name": "Gorilla Press (8) + TZN",
+    "point_value": "5.00",
+    "description": "Tap the top of the plate to the turf and then press overhead"
+  },
+  {
+    "id": "598",
+    "name": "Stag RDL (8) + Tzan",
+    "point_value": "4.50",
+    "description": "Staggered RDL Stand with one foot slightly back, hinge at the hips while keeping a soft bend in the front knee and flat back. Lower until you feel tension in the front hamstring, then drive through the front heel to stand. Switch legs at the opposite end zone. "
+  },
+  {
+    "id": "599",
+    "name": "Bridge Skulls (10) + TZN",
+    "point_value": "3.75",
+    "description": ""
+  },
+  {
+    "id": "600",
+    "name": "No Monkeys",
+    "point_value": "3.50",
+    "description": "Ape Shoot the plate, if your plate lands on the line you may walk to it. if your plate passes the line or falls short of the line, monkey to it."
+  },
+  {
+    "id": "601",
+    "name": "Dead Bug Press (20) + TZN",
+    "point_value": "4.25",
+    "description": "Plate press + Dead Bug "
+  },
+  {
+    "id": "602",
+    "name": "Antaeus",
+    "point_value": "5.50",
+    "description": "Shot Put/Spikes Ladder"
+  }
+]
